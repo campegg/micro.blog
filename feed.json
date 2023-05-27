@@ -1,0 +1,1754 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Cam Pegg",
+	"icon": "https://micro.blog/campegg/avatar.jpg",
+	"home_page_url": "https://campegg.com/",
+	"feed_url": "https://campegg.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://campegg.micro.blog/2023/05/26/im-trying-arc.html",
+				
+				"content_html": "<p>I&rsquo;m trying <a href=\"https://arc.net/\">Arc</a> again. I really want to love it—&lsquo;Spaces&rsquo; in particular is killer and the UI is pretty decent—but it is a big change. I&rsquo;m committing to giving it a week as my default and we&rsquo;ll see how it goes.</p>\n",
+				"content_text": "I'm trying [Arc](https://arc.net/) again. I really want to love it—'Spaces' in particular is killer and the UI is pretty decent—but it is a big change. I'm committing to giving it a week as my default and we'll see how it goes.\n",
+				"date_published": "2023-05-26T21:07:16-04:00",
+				"url": "https://campegg.com/2023/05/26/im-trying-arc.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/25/ive-seen-this.html",
+				
+				"content_html": "<p>I’ve seen this skyline so many times over the last seven years, but sometimes I still can’t believe I live here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’ve seen this skyline so many times over the last seven years, but sometimes I still can’t believe I live here.\n\n<img src=\"uploads/2023/3771b27497.jpg\" width=\"600\" height=\"300\" alt=\"\">\n",
+				"date_published": "2023-05-25T21:17:25-04:00",
+				"url": "https://campegg.com/2023/05/25/ive-seen-this.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/25/ive-been-a.html",
+				
+				"content_html": "<p>I&rsquo;ve been a bit on the fence about this season of Ted Lasso, but the penultimate episode pulled me right back in. I&rsquo;m going to be sad next week.</p>\n",
+				"content_text": "I've been a bit on the fence about this season of Ted Lasso, but the penultimate episode pulled me right back in. I'm going to be sad next week.\n",
+				"date_published": "2023-05-25T21:12:23-04:00",
+				"url": "https://campegg.com/2023/05/25/ive-been-a.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/23/filed-under-dumb.html",
+				
+				"content_html": "<p>Filed under &ldquo;dumb shit&rdquo;: my office building replaced the number pads with badge readers on the doors to the restrooms on each floor (aside: do they want to track how often we pee?). The men&rsquo;s room on my floor has had a broken catch for years. They didn&rsquo;t fix it, so you can still just push it open. 🙄</p>\n",
+				"content_text": "Filed under \"dumb shit\": my office building replaced the number pads with badge readers on the doors to the restrooms on each floor (aside: do they want to track how often we pee?). The men's room on my floor has had a broken catch for years. They didn't fix it, so you can still just push it open. 🙄\n",
+				"date_published": "2023-05-23T17:34:13-04:00",
+				"url": "https://campegg.com/2023/05/23/filed-under-dumb.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/22/so-so-good.html",
+				
+				"content_html": "<p>So, so good: <a href=\"https://www.kennylog-in.com\">Kenny Log-Ins</a>. I know where I&rsquo;ll be sourcing my next password from.</p>\n",
+				"content_text": "So, so good: [Kenny Log-Ins](https://www.kennylog-in.com). I know where I'll be sourcing my next password from.\n",
+				"date_published": "2023-05-22T22:04:41-04:00",
+				"url": "https://campegg.com/2023/05/22/so-so-good.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/22/so-yeah-this.html",
+				
+				"content_html": "<p>So yeah&hellip; <a href=\"https://mastodon.social/@PavelASamsonov/110412525824026096\">this sounds about right</a>.</p>\n",
+				"content_text": "So yeah... [this sounds about right](https://mastodon.social/@PavelASamsonov/110412525824026096).\n",
+				"date_published": "2023-05-22T16:04:35-04:00",
+				"url": "https://campegg.com/2023/05/22/so-yeah-this.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/21/the-biggest-downside.html",
+				
+				"content_html": "<p>The biggest downside to moving to Micro.blog? Not being able to use <a href=\"https://tapbots.com/ivory/\">Ivory</a> any more.</p>\n",
+				"content_text": "The biggest downside to moving to Micro.blog? Not being able to use [Ivory](https://tapbots.com/ivory/) any more.\n",
+				"date_published": "2023-05-21T20:19:14-04:00",
+				"url": "https://campegg.com/2023/05/21/the-biggest-downside.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/20/took-come-time.html",
+				
+				"content_html": "<p>Took some time this afternoon to tidy up the VPS I used to serve my old site; there was a (probably should have been un-)surprising amount of stuff there. I also took the opportunity to spin up some services I&rsquo;ve been wanting to run and <strong>holy-shit-where-has-Docker-been-my-whole-life</strong>?</p>\n",
+				"content_text": "Took some time this afternoon to tidy up the VPS I used to serve my old site; there was a (probably should have been un-)surprising amount of stuff there. I also took the opportunity to spin up some services I've been wanting to run and **holy-shit-where-has-Docker-been-my-whole-life**?\n",
+				"date_published": "2023-05-20T17:41:44-04:00",
+				"url": "https://campegg.com/2023/05/20/took-come-time.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/19/it-looks-like.html",
+				
+				"content_html": "<p>It looks like <a href=\"https://archive.is/IDKL1\">MSG might be making a comeback</a>. <a href=\"https://uncle-roger.fandom.com/wiki/Uncle_Roger\">Uncle Roger</a> is going to be so happy (since, according to him, MSG stands for &ldquo;Make Shit Good&rdquo; 😆).</p>\n",
+				"content_text": "It looks like [MSG might be making a comeback](https://archive.is/IDKL1). [Uncle Roger](https://uncle-roger.fandom.com/wiki/Uncle_Roger) is going to be so happy (since, according to him, MSG stands for \"Make Shit Good\" 😆).\n",
+				"date_published": "2023-05-19T10:10:23-04:00",
+				"url": "https://campegg.com/2023/05/19/it-looks-like.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/18/after-a-few.html",
+				
+				"content_html": "<p>After a few fits and starts, I&rsquo;m getting the hang of working with Micro.blog and getting content imported. Love that I don&rsquo;t have to maintain the plumbing that makes my site work. Just got dig into theming now… it&rsquo;s basically <a href=\"https://gohugo.io\">Hugo</a> under the hood, so shouldn&rsquo;t be too to hard to work out.</p>\n",
+				"content_text": "After a few fits and starts, I'm getting the hang of working with Micro.blog and getting content imported. Love that I don't have to maintain the plumbing that makes my site work. Just got dig into theming now… it's basically [Hugo](https://gohugo.io) under the hood, so shouldn't be too to hard to work out.\n",
+				"date_published": "2023-05-18T22:19:06-04:00",
+				"url": "https://campegg.com/2023/05/18/after-a-few.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/18/wondering-what-link.html",
+				
+				"content_html": "<p>Wondering what Link smells like has never occurred to me. That aside, <a href=\"https://www.wired.com/story/tears-of-the-kingdom-link-smells-fujibayashi-aonuma-interview/\">this WIRED interview with TotK&rsquo;s director and producer</a> is worth a read to get some insight into how they thought about building the game.</p>\n",
+				"content_text": "Wondering what Link smells like has never occurred to me. That aside, [this WIRED interview with TotK's director and producer](https://www.wired.com/story/tears-of-the-kingdom-link-smells-fujibayashi-aonuma-interview/) is worth a read to get some insight into how they thought about building the game.\n",
+				"date_published": "2023-05-18T11:51:46-04:00",
+				"url": "https://campegg.com/2023/05/18/wondering-what-link.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/17/i-need-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I need to spend some more time with it, but my initial impressions of <a href=\"https://micro.blog\">Micro.blog</a> are <em>very</em> good; the onboarding has been great, and 99% of the way things work makes sense to me. Added bonus: I can now publish using <a href=\"https://ia.net/writer\">IA Writer</a> via <a href=\"https://indieweb.org/Micropub\">micropub</a>!</p>\n",
+				"date_published": "2023-05-17T17:22:24-04:00",
+				"url": "https://campegg.com/2023/05/17/i-need-to.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/17/after-thinking-about.html",
+				
+				"content_html": "<p>After thinking about it for a while, I decided that I was spending more time building and maintaining stuff for my site than I was actually writing/doing something with it, so I decided to make the switch to <a href=\"https://micro.blog/\">Micro.blog</a>. Now I&rsquo;ve just got to work out how to bring all my old stuff over.</p>\n",
+				"content_text": "After thinking about it for a while, I decided that I was spending more time building and maintaining stuff for my site than I was actually writing/doing something with it, so I decided to make the switch to [Micro.blog](https://micro.blog/). Now I've just got to work out how to bring all my old stuff over.\n",
+				"date_published": "2023-05-17T12:25:29-04:00",
+				"url": "https://campegg.com/2023/05/17/after-thinking-about.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/12/tears-of-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><em>Tears of the Kingdom</em> first impressions: it&rsquo;s just like <em>Breath of the Wild</em>, in the best possible way.  Some of the new game mechanics will take a little getting used to, but I expected that and what I&rsquo;ve seen so far has been pretty cool. The transition from post-<em>BotW</em>, beefed up Link to start-of-game Link was handled pretty well. The world looks <strong>massive</strong>… looking forward to exploring the new bits, but also getting back to some of the familiar locations in Hyrule&nbsp;again.</p>\n",
+				"date_published": "2023-05-12T12:19:08-04:00",
+				"url": "https://campegg.com/2023/05/12/tears-of-the.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/10/vanmoof-came-up.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Vanmoof came up with <a href=\"https://www.vanmoof.com/blog/en/tv-bike-box\">an infuriatingly clever way to reduce shipping damage</a>. I love this kind of&nbsp;stuff.</p>\n",
+				"date_published": "2023-05-10T11:45:03-04:00",
+				"url": "https://campegg.com/2023/05/10/vanmoof-came-up.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/02/most-of-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Most of the &ldquo;business&rdquo; books I&rsquo;ve come across recently weigh in at ~300 pages. I posit that 99% of them are about 100-150 pages too long; after building their core premise and arguing their case, most authors pad the rest of the book out with redundant case studies or just fluff to hit an arbitrary word/page count (to be fair, the publishers probably have a hand in pushing this) so that the book feels &ldquo;substantial&rdquo; enough to get people to shell out $15-$30. Personally, I&rsquo;d be happy to pay that for books that respect my time and get to the point. And because they&rsquo;re shorter, I can get through more of them, meaning I&rsquo;d be buying more of them. Something to think about,&nbsp;publishers?</p>\n",
+				"date_published": "2023-05-02T10:14:22-04:00",
+				"url": "https://campegg.com/2023/05/02/most-of-the.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/01/erin-kissanes-blue.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Erin Kissane&rsquo;s <a href=\"https://erinkissane.com/blue-skies-over-mastodon\"><em>Blue skies over Mastodon</em></a> post has been linked to <em>like freakin&rsquo; everywhere</em> over the last day or so, so I&rsquo;m not going to spend too to much time chewing over the things that everyone else is saying about it. But largely, I feel the same way about almost everything she says, like how she feels about&nbsp;Bluesky:</p><blockquote><p>&hellip;I’m also not really posting because it’s a chaos machine and it’s still way too early for me to know if I really want to contribute&nbsp;there.</p></blockquote><p>But the parts that had me nodding along the most are the bits about how it seems like the first rule of Mastodon is that you don&rsquo;t criticize Mastodon. The inevitable pile-on that happens if someone dares critique or question the platform. The passive-aggressive&mdash;and sometimes agrressive-agressive&mdash;responses don&rsquo;t do anything to push the platform forward as a viable alternative to centralized social media. Before you getting all wound up and start lecturing people about how quote posts can be used for dunking on people or how search can be used to enable harassment, maybe take a look at how your responses are creating a(n un)welcoming environment for others, or&nbsp;not.</p><p>For the record, I do like Mastodon and I don&rsquo;t have as many problems with the UI and onboarding, etc, etc as many others do (although I do see their points).  Eugene Rochko and the rest of the Mastodon devs are taking steps to address some of the more frequently-encountered and glaring UX problems people are encountering, which is great, but in the meantime, helping people onboard and get used to the way Mastodon works would seem to be a more productive course of action than getting all shouty,&nbsp;no?</p>\n",
+				"date_published": "2023-05-01T17:58:12-04:00",
+				"url": "https://campegg.com/2023/05/01/erin-kissanes-blue.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/27/i-installed-little.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I installed <a href=\"https://www.obdev.at/products/littlesnitch-mini/index.html\">Little Snitch Mini</a> on my Mac a couple weeks back, and it has been <em>fascinating</em>&mdash;and a little scary&mdash;to see just how many external network connections my computer makes (Kazakhstan! Tanzania! Vietnam!). Although to be fair, a lot of them are for macOS&rsquo; <code>timed</code>, which does time synchronization between my local system clock and various NTP servers. But still, it&rsquo;s enlightening to see just how much stuff is flying&nbsp;around.</p>\n",
+				"date_published": "2023-04-27T09:35:11-04:00",
+				"url": "https://campegg.com/2023/04/27/i-installed-little.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/23/taking-a-look.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Taking a look at <a href=\"https://crossword-solver.io/books-set-around-america\">where books are set in the US</a> was a fun Sunday morning distraction… it&rsquo;s no surprise that NYC is the most common location overall, and I totally get why such a high percentage of the books set in Washington, DC are thrillers. But I do have questions. Like why are such a large proportion of books sited around Bloomington, Indiana romance novels? And the same for mysteries in Bisbee, Arizona? Is it just because there aren&rsquo;t that many books centered around those locations, so the numbers are skewed? Or are they genuinely places that are incredibly&nbsp;romantic/mysterious?</p>\n",
+				"date_published": "2023-04-23T09:00:14-04:00",
+				"url": "https://campegg.com/2023/04/23/taking-a-look.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/21/i-managed-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I managed to get my grubby little mitts on an invite to <a href=\"https://bsky.app/\">Bluesky</a> (thanks, <a href=\"https://snarfed.org/\">Ryan</a>!) and it’s… OK, I guess. I’m not going to judge it too harshly just yet—it’s still very much a beta—but I can’t really wrap my head around why they’re inventing another protocol for federation when ActivityPub exists. And the app icon kinda sucks; it’s not very iOS-y. But I do like the the way they do the domain-as-user-handle thing. Will be interesting to watch this one&nbsp;evolve.</p>\n",
+				"date_published": "2023-04-21T07:24:39-04:00",
+				"url": "https://campegg.com/2023/04/21/i-managed-to.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/21/hold-up-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Hold up a minute… <a href=\"https://archive.is/Y3W7n\">ice cream might be a <em>health food</em></a>?! Assuming this is real and not some kind of play by Big Ice Cream, it could be a dietary game changer for me. But given that <a href=\"https://pubmed.ncbi.nlm.nih.gov/23075563/\">chocolate milk is actually a pretty good post-exercise recovery drink</a>, the idea that ice cream might not be completely bad for you isn’t so&nbsp;far-fetched.</p><p>(And before you start sending me “well, actually…” emails, I know the article does not establish that ice cream is a health food; I was employing hyperbole as a rhetorical device. That should go without saying, but, you know… the internet.&nbsp;🤷🏻‍♂️)</p>\n",
+				"date_published": "2023-04-21T06:42:42-04:00",
+				"url": "https://campegg.com/2023/04/21/hold-up-a.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/20/i-backed-goldeneye.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I backed <a href=\"https://www.kickstarter.com/projects/gabedurham/the-making-of-goldeneye-007-a-history-of-the-n64-classic?ref=user_menu\"><em>GoldenEye 007: The Making of an N64 Classic</em></a> as soon as I heard about it, and my copy arrived today! Can&rsquo;t wait to dive into&nbsp;it.</p>\n",
+				"date_published": "2023-04-20T20:18:00-04:00",
+				"url": "https://campegg.com/2023/04/20/i-backed-goldeneye.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/20/im-not-into.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I&rsquo;m not into making games, but a few of the concepts in <a href=\"http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html\"><em>How To Make Good Small Games</em></a> can be abstracted out and applied to other creative endeavors; for example #4 (&ldquo;A game succeeds when it fulfills its promises&rdquo; and #5 (&rdquo; It&rsquo;s easier for a game to succeed if it makes smaller promises&rdquo;) are useful guides, regardless of what you do&mdash;be careful and deliberate in setting expectations (#5), remove anything unnecessary or that may result in mis-set expectations, and make sure the payoffs (at least) meet the expectations that you&rsquo;ve set&nbsp;(#4).</p>\n",
+				"date_published": "2023-04-20T13:17:57-04:00",
+				"url": "https://campegg.com/2023/04/20/im-not-into.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/19/i-screwed-up.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I screwed up: I did some Really Dumb Stuff and deleted a bunch of content from the past few days. I&rsquo;ve managed to restore it all, but apologize in advance for the webmention and RSS shenanigans that are going to&nbsp;ensue.</p>\n",
+				"date_published": "2023-04-19T13:38:52-04:00",
+				"url": "https://campegg.com/2023/04/19/i-screwed-up.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/19/to-watch-later.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>To watch later: <a href=\"https://longnow.org/ideas/resisting-dystopia/\">Becky Chambers &amp; Annalee Newitz: <em>Resisting Dystopia</em></a>.</p><blockquote><p>Known for challenging classic science fiction tropes such as war, violence, and colonialism, both authors create vivid and immersive worlds that are filled with non-human persons, peace, and a subtle sense of hope. The authors will discuss what it means to take these alternative themes seriously, delve into their writing &amp; world building process, and explore how science fiction can help us imagine new futures that can make sense of our current civilizational&nbsp;struggles.</p></blockquote><p>Becky Chambers’ <i>Wayfarers</i> and <i>Monk &amp; Robot</i> series have been among my favorite reads over the last year or so; I’m definitely keen to hear more about her&nbsp;process.</p>\n",
+				"date_published": "2023-04-19T07:39:32-04:00",
+				"url": "https://campegg.com/2023/04/19/to-watch-later.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/19/while-i-generally.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>While I generally find myself nodding along with Manu’s posts, I really only half agree with his <a href=\"https://manuelmoreale.com/i-hate-internal-linking\">thoughts on internal linking</a>; linking <em>exclusively</em> to internal content for the sake of SEO usually does lead to a shitty experience, forcing people into a circular path around a single&nbsp;site.</p><p>But on a personal site, linking to a past thought or related concept can be a great experience—it lets me explore the ideas that lead someone to where they are today. And if the first thing I read is great content that I enjoy, pointing me to more of it is definitely&nbsp;welcome.</p><p>External links are still appreciated of course, I just don’t think we should be too quick to discount the value of internal&nbsp;links.</p><p><strong>Edit @ 12:48pm:</strong> After an email exchange with Manu, I think I probably read his post as more absolutist than was intended and inferred his point incorrectly. It&rsquo;s probably fairer to say that we both hold the position that, regardless of what sort of site it is, internal linking <em>out of context or without context</em> is pretty awful, not that all internal linking is bad. Any mis-interpretation of Manu&rsquo;s position is faulty inference on my&nbsp;part.</p>\n",
+				"date_published": "2023-04-19T07:20:15-04:00",
+				"url": "https://campegg.com/2023/04/19/while-i-generally.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/17/finally-got-around.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Finally got around to watching <a href=\"https://www.youtube.com/watch?v=HnzNZ0Mdx4I\">the <em>Ahsoka</em> trailer</a>… it looks good—maybe not <em>Andor</em> good, but still pretty decent—am looking forward to watching it later in the&nbsp;summer.</p>\n",
+				"date_published": "2023-04-17T17:18:19-04:00",
+				"url": "https://campegg.com/2023/04/17/finally-got-around.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/17/i-noticed-some.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I noticed some very mixed feelings while watching the Boston Marathon this morning. A big part of 2018 and 2019 was spent getting myself fit and fast enough to qualify, which I did; I qualified for the 2020 Boston Marathon with a run of <a href=\"http://campegg.com/activities/1890664190\">3:03:09</a>, giving me a buffer of 6:51 under my (then) qualifying standard of 3:10:00. But then 2020 actually happened and the marathon was cancelled. The BAA allowed runners to re-apply with their 2020 qualifying times, and I was accepted to the planned 2021 running, but after that was <a href=\"https://www.boston.com/sports/boston-marathon/2021/05/05/boston-marathon-2021-qualifying-time/\">moved to October and the field size reduced</a>, I missed out on getting a bib by 64 seconds. Based on what I was reading at the time, the field size reductions were all at the expense of qualifying runners, not the charity slots. I don’t know if that’s entirely true and if it is, I can understand the decision, but it still&nbsp;stung.</p><p>That whole episode pretty much cratered my motivation to train and I haven’t really done much in the way of racing since; I’m just not as willing to go out and hurt myself to race properly and if I’m not in the game mentally, I’m never going to get there physically. And then when I did begin to feel like traing properly again and started gaining some momentum, I got injured training for the NYC marathon and haven’t really bounced back from&nbsp;that.</p><p>Compounding that is the fact that for the last 2 years, every runner who has hit their qualifiying time has been accepted. (Not that I begrudge anyone their chance to run, it’s just annoying AF that I had such a big buffer and still didn’t make it.) That should probably be a positive—hey, you don’t have to try and push as hard to go way under your qualifying time!—but given the state of my motivation, it mostly feels like another&nbsp;kick.</p><p>But so I don’t end on a negative note, it was awsome to see Australia representing in the wheelchair event, with a couple of Aussies finishing in the top ten of the elite races; Christie Dawes with 6th in the women’s and Jake Lappin with 8th in the&nbsp;men’s.</p>\n",
+				"date_published": "2023-04-17T14:35:48-04:00",
+				"url": "https://campegg.com/2023/04/17/i-noticed-some.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/17/tracy-nails-pretty.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Tracy nails pretty much all of the <a href=\"https://tracydurnell.com/2023/04/16/bloggings-emotional-obstacles/\">emotional obstacles</a> that I encounter when thinking about what I post here, but ones that weight heaviest on me are around risk, especially concerning cultural and political topics. <a href=\"https://campegg.com/posts/20211120125521\">I build and maintain this site as a hobby</a>, and having to deal with any kind of fallout (spam, DDOS, etc, etc) from being too vocal about those kinds of fraught topics would not be fun, so I tend to self-censor a bit around those areas. I’ll admit to that being not the most courageous of approaches, but adding another source of stress to my life isn’t something I’m keen on doing.</p>\n",
+				"date_published": "2023-04-17T11:25:07-04:00",
+				"url": "https://campegg.com/2023/04/17/tracy-nails-pretty.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/16/ok-time-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>OK, time to start again. This time, I’m going to track my progress and—hopefully!—document some of my thought processes (I was about to write “logic” instead of “thought processes” there, but then realized that is not a whole lot of logic going in to this 😆) on <a href=\"https://campegg.com/about/activitypub/\">a dedicated ActivityPub page</a>. If you see me doing something boneheaded, I’d definitely appreciate a heads-up, either via email or <a href=\"https://mastodon.social/@campegg\">Mastodon</a>.</p>\n",
+				"date_published": "2023-04-16T12:42:00-04:00",
+				"url": "https://campegg.com/2023/04/16/ok-time-to.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/15/well-that-was.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Well that was a wild ride! After <a href=\"https://mastodon.social/@campegg/110177382522428481\">giving up on Wordpress as a potential Django replacement</a>, I spent a <em>significant</em> amount of time (re-)reading up on ActivityPub and thought I had gotten myself to a place where I could take another stab at&nbsp;it.</p><p>I had the basic skeleton of an implementation working locally, so thought I&rsquo;d push some of the changes and see how it went in the real world. One completely broken site and incredibly frustrating afternoon later, I think it&rsquo;s time to close the laptop for a while and do something&nbsp;else.</p>\n",
+				"date_published": "2023-04-15T16:42:25-04:00",
+				"url": "https://campegg.com/2023/04/15/well-that-was.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/14/a-book-that.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>A book that &ldquo;&hellip; posits that we—and Americans, especially—have <a href=\"https://www.wired.com/story/plaintext-tech-layoffs-reveal-americas-unhealthy-obsession-with-work/\">fetishized work to the point that we’ve lost our identities to it</a>&rdquo;? Added to the reading list. As a non-American living in America, I&rsquo;ve often been struck by just how closely Americans identify <em>who they are</em> with <em>what they do</em>. That, and the shared cultural delusion that if they &ldquo;just work hard(er)&rdquo;, that they&rsquo;ll somehow end up&nbsp;wealthy.</p>\n",
+				"date_published": "2023-04-14T10:21:15-04:00",
+				"url": "https://campegg.com/2023/04/14/a-book-that.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/14/only-four-weeks.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.youtube.com/watch?v=uHGShqcAHlQ\">Only four weeks until <em>Tears of the Kingdom</em>!</a> Circumstances are a little different now from when I got my Switch and <em>Breath of the Wild</em> in 2020 and gaming was probably my main form of escapism, but I’m still just as excited to jump in and run around Hyrule a bit&nbsp;more.</p>\n",
+				"date_published": "2023-04-14T07:18:31-04:00",
+				"url": "https://campegg.com/2023/04/14/only-four-weeks.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/11/some-very-interesting.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Some very interesting <a href=\"https://www.alexmurrell.co.uk/articles/the-age-of-average\">thoughts from Alex Murrell on how pretty much <em>everything</em> is trending towards the average</a>. As we rely more and more on data to inform decision making, it&rsquo;s more-or-less inevitable that this will happen, I guess… if everyone is looking to use proven approaches to any given problem, the solutions are all going to start looking more and more like the same thing. Data-driven decision making is definitely not the only factor for sure, but it would certainly be a significant&nbsp;contributor.</p>\n",
+				"date_published": "2023-04-11T14:17:57-04:00",
+				"url": "https://campegg.com/2023/04/11/some-very-interesting.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/10/ive-been-meaning.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I&rsquo;ve been meaning to link to <a href=\"https://www.businessinsider.com/tech-companies-ruining-apps-websites-internet-worse-google-facebook-amazon-2023-3\">this article on how Big Tech are purposefully making their core products worse</a> (or <a href=\"https://www.wired.com/story/tiktok-platforms-cory-doctorow/\"><em>enshittifying</em></a>, as Cory Doctorow would call it) since it was published a couple of weeks back; there are some good examples raised in the piece, but the key message is pretty&nbsp;simple:</p><blockquote><p>In Silicon Valley, the user&rsquo;s experience has become subordinate to the company&rsquo;s stock&nbsp;price.</p></blockquote><p>Go back and read that again (and set aside the fact that <a href=\"https://www.goodreads.com/quotes/10474074-only-two-industries-refer-to-their-customers-as-users-computer\">&lsquo;user&rsquo; is a terrible way to describe people</a> that engage with a piece of software). It&rsquo;s an unfortunate reality that when it comes to making something that will make people happy vs making something that will make investors happy, the former is always going to lose out to the&nbsp;latter.</p>\n",
+				"date_published": "2023-04-10T16:51:55-04:00",
+				"url": "https://campegg.com/2023/04/10/ive-been-meaning.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/10/theres-been-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>There&rsquo;s been a pretty noticeable uptick in the amount of spam email I&rsquo;ve been getting at work this week; all of them are using a job title that is over two years out of date, and most of them want &ldquo;just 15 (or 20) minutes&rdquo; of my time and include a Calendly link. A few points to note for the crap merchants clogging up my&nbsp;inbox:</p><ol><li>Stop&nbsp;it.</li><li>Buy your spam lists from a data broker that updates their data more&nbsp;frequently.</li><li>I&rsquo;m not going to do your job and book my own sales call with&nbsp;you.</li><li>I wish Calendly had implemented some kind of a &lsquo;report-a-spammer&rsquo; functionality, because I&rsquo;d use the 15 minutes of my time you wanted to flag you in the hopes they&rsquo;d kick you off their&nbsp;platform.</li><li>Seriously, just STOP&nbsp;IT!</li></ol>\n",
+				"date_published": "2023-04-10T13:28:20-04:00",
+				"url": "https://campegg.com/2023/04/10/theres-been-a.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/05/from-to-til.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>From 🧱 to 📱—<abbr title=\"Today I Learned\">TIL</abbr> that <a href=\"https://www.smithsonianmag.com/innovation/from-the-brick-to-the-iphone-the-cellphone-celebrates-50-years-180981910/\">the mobile phone turned 50 years old</a> this&nbsp;week.</p>\n",
+				"date_published": "2023-04-05T07:23:37-04:00",
+				"url": "https://campegg.com/2023/04/05/from-to-til.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/05/manu-nails-it.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Manu nails it with his <a href=\"https://manuelmoreale.com/rss-excerpts\">take on excerpt-only RSS feeds</a>: </p><blockquote><p>RSS is not a notification system. It&rsquo;s a distribution system. Distribution of content. I don&rsquo;t want a notification. I want to read your&nbsp;content.</p></blockquote><p>Excerpt-only RSS feeds drive me up the wall. I know I can turn on the full-text view in Reeder (which is one of the reasons I use it), but having to do that is annoying as hell. If you serve RSS, please—for the love of all that is good in the world—serve full text, not just an&nbsp;excerpt.</p>\n",
+				"date_published": "2023-04-05T06:28:22-04:00",
+				"url": "https://campegg.com/2023/04/05/manu-nails-it.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/04/gqs-profile-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.gq.com/story/tim-cook-global-creativity-awards-cover-2023\">GQ’s profile of Tim Cook</a> is worth a read, but one quote in particular outlines an idea that I wish more people would take to&nbsp;heart:</p><blockquote><p>“…if presented with something new that says you were wrong, admit it and go forward instead of continuing to hunker down and say why you’re&nbsp;right.”</p></blockquote><p>Something that I need to remember on occasion as&nbsp;well.</p>\n",
+				"date_published": "2023-04-04T06:16:27-04:00",
+				"url": "https://campegg.com/2023/04/04/gqs-profile-of.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/01/after-thinking-about.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>After <a href=\"https://campegg.com/notes/20230329113238\">thinking about it a bit more</a>, I&rsquo;ve started messing around with some backend stuff; you might find some broken things around here over the next little&nbsp;while.</p>\n",
+				"date_published": "2023-04-01T13:31:08-04:00",
+				"url": "https://campegg.com/2023/04/01/after-thinking-about.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/01/may-th-cant.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>May 12th can’t come fast enough! I was borderline obsessed with <a href=\"https://www.zelda.com/breath-of-the-wild/\">Breath of the Wild</a>—the whole open world exploration thing just did it for me—so I’ve been keeping a close eye on everything <a href=\"https://www.zelda.com/tears-of-the-kingdom/\">Tears of the Kingdom</a>-related since the very first teaser trailer… it was an instant pre-order as soon as it was available. And by judging by the <a href=\"https://www.youtube.com/watch?v=a6qna-ZCbxA\">new gameplay video</a> it looks like it will have been well worth the&nbsp;wait.</p>\n",
+				"date_published": "2023-04-01T07:42:14-04:00",
+				"url": "https://campegg.com/2023/04/01/may-th-cant.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/04/01/being-a-fan.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Being a fan of both “soft” SF (such a silly name for the genre!) (but also, go read <a href=\"https://www.otherscribbles.com/\">Becky Chambers’</a><em>Wayfarers</em> and <em>Monk &amp; Robot</em> series right now!) and cozy mysteries, <a href=\"https://werd.io/2023/the-mimicking-of-known-successes-by-malka-older\">Ben’s recommendation</a> for <a href=\"https://www.betterworldbooks.com/product/detail/9781250860507\"><em>The Mimicking of Known Successes</em></a> is an immediate addition to my reading&nbsp;list.</p>\n",
+				"date_published": "2023-04-01T07:15:21-04:00",
+				"url": "https://campegg.com/2023/04/01/being-a-fan.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/03/29/ive-recently-been.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I&rsquo;ve recently been thinking about what I want this site to be, and the more I think about it, the more the idea of stripping it all back to the very basic-est of basics appeals to me; the more that gets added, the more fragile it all feels (that, and the fact that 99.99999% of the stuff here doesn&rsquo;t get looked at anyway).&nbsp;🤔</p>\n",
+				"date_published": "2023-03-29T11:32:38-04:00",
+				"url": "https://campegg.com/2023/03/29/ive-recently-been.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/03/28/color-me-extremely.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Color me <em>extremely</em> surprised to read a take like this on an automotive-focused site, but I&rsquo;m glad someone is saying it: <a href=\"https://jalopnik.com/its-not-the-bike-lanes-fault-youre-a-bad-driver-1850269918\">It&rsquo;s Not the Bike Lane&rsquo;s Fault You&rsquo;re a Bad&nbsp;Driver</a></p><blockquote><p>I’m sorry to break it to anyone who has trouble keeping their car out of a bike lane (or off a concrete barrier), but it’s not the bike lane’s fault you’re a shitty driver. If you hit something stationary, that’s your fault. Pay attention to the fucking road while you’re driving. It’s not too much to ask when other people’s lives are literally at&nbsp;stake.</p></blockquote><p>Needless to say, I gave the comments on this one a wide berth… but I&rsquo;m pretty sure I could tell you what 99% of them would be like: &ldquo;buT cYClistS dOn&rsquo;T pAy rEGiStraTion oR TAxEs&rdquo;, &ldquo;bUT cyCLisTs bReAk tRAFfiC lAwS alL tHE dAMn TimE!&rdquo;, and all the other tired old deflections from the fact that <strong>if you&rsquo;re driving a car, you should be paying attention to what&rsquo;s going on around you so that you don&rsquo;t kill anyone</strong>.</p>\n",
+				"date_published": "2023-03-28T16:33:49-04:00",
+				"url": "https://campegg.com/2023/03/28/color-me-extremely.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/03/28/a-wholehearted-and.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>A wholehearted and unreserved &ldquo;hell yes!&rdquo; from me for Cable Sasser&rsquo;s assertion that <a href=\"https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/\">Apple Passwords Deserve An App</a>.</p><blockquote><p>In my dumble opinion, Apple&nbsp;should:</p><ul><li>Break Passwords out into a standalone app, with an actual fully resizable window (!!), and full, proper UI for most of its&nbsp;features</li><li>Make Passwords a toolbar item in Safari for easy access and to be top-of-mind for the&nbsp;user</li><li>Stick to a basic feature set, but do that&nbsp;well</li></ul></blockquote><p>Like Sasser, I&rsquo;m a 1Password user and I share his reservations about where their VC funding will lead them, and was also kind of disappointed by their move from a native Mac app to an Election-based (🤢) one. But for me, the biggest impediment to changing over is how hidden away password management is on Apple&rsquo;s platforms; and because it&rsquo;s not <em>right there</em> and easy to interact with, it just doesn&rsquo;t feel fully-baked, so I&rsquo;m reluctant to trust it with my passwords (which I know it my own dumb psychological problem, but&nbsp;still).</p>\n",
+				"date_published": "2023-03-28T16:14:57-04:00",
+				"url": "https://campegg.com/2023/03/28/a-wholehearted-and.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/03/17/im-trying-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I&rsquo;m trying to wrap my head around the <a href=\"https://www.w3.org/TR/activitypub/\">ActivityPub</a> spec with a view to building federation into this site. At first glance, it seems relatively straightforward (at least conceptually), but when you dig in and actually try to implement it, it gets complicated real&nbsp;quick.</p><p>I know I could use a service like <a href=\"https://fed.brid.gy\">Bridgy Fed</a>, but a) I don&rsquo;t want my username to be @campegg.com@campegg.com, which is how Bridgy is set up; and b) where&rsquo;s the fun in doing that? (Although I may spend some time investigating if there are any Python/Django libraries that could make life&nbsp;easier.)</p>\n",
+				"date_published": "2023-03-17T16:39:48-04:00",
+				"url": "https://campegg.com/2023/03/17/im-trying-to.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/03/17/after-tryingand-failingto.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>After trying—and failing—to find <a href=\"https://eddierayner.bandcamp.com/album/enzso\"><em>ENZSO</em></a> on every streaming service I could think of,  I made my first purchase on Bandcamp&nbsp;today. Such a great album… the <a href=\"https://youtu.be/6-6Ta_8T7QM?t=56\">orchestral version of <em>Message to My Girl</em></a> is just&nbsp;incredible.</p>\n",
+				"date_published": "2023-03-17T14:42:21-04:00",
+				"url": "https://campegg.com/2023/03/17/after-tryingand-failingto.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/03/12/for-some-reason.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>For some reason, I&rsquo;ve been thinking a lot about the <a href=\"https://indieweb.org/database-antipattern\">database antipattern</a> lately, and&mdash;while I&rsquo;m not too concerned that having my content stored in SQLite will result in it becoming irretrievably locked up or that it adds significant <a href=\"https://indieweb.org/database-antipattern#DBA_tax\">administrative overhead</a> to running my site&mdash;thought it might not be a bad idea to have it saved in a more universally-readable format, so spent an hour or so setting things up so that everything gets saved out to plain text and scheduling a cron job to automatically back it all up to a private GitHub repo a couple of times a day. It was surprisingly&nbsp;easy.</p>\n",
+				"date_published": "2023-03-12T22:20:35-04:00",
+				"url": "https://campegg.com/2023/03/12/for-some-reason.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/03/10/a-good-shit.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>&ldquo;A <a href=\"https://www.joelotter.com/posts/2023/03/good-shit-pizza/\">Good Shit Pizza</a> must not… include chicken. We still have&nbsp;standards.&rdquo;</p><p>100% agreed. Chicken has no place on a pizza. And (this is a <em>very</em> US-midwest-centric one, admittedly) neither does ranch&nbsp;dressing.</p>\n",
+				"date_published": "2023-03-10T09:20:02-04:00",
+				"url": "https://campegg.com/2023/03/10/a-good-shit.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/03/09/sounds-reasonable-tome.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://davekarpf.substack.com/p/how-long-does-twitter-have-left\">Sounds reasonable to&nbsp;me.</a></p>\n",
+				"date_published": "2023-03-09T22:43:34-04:00",
+				"url": "https://campegg.com/2023/03/09/sounds-reasonable-tome.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/03/05/vomit-isnt-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>“Vomit” isn’t the first word that springs to my mind, but “<a href=\"https://www.mentalfloss.com/posts/why-american-chocolate-tastes-like-vomit\">American chocolate is awful</a>” (the mass market brands, at least) is a hill I will die&nbsp;on.</p>\n",
+				"date_published": "2023-03-05T22:17:52-04:00",
+				"url": "https://campegg.com/2023/03/05/vomit-isnt-the.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/23/a-couple-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>A couple of technology/economics experts rip into what they see as a growing AI bubble in a big way in <a href=\"https://www.salon.com/2023/02/21/ai-chatbots-are-having-their-tulip-mania-moment/\">this article in Salon</a>. Their argument centers on the premise that while the various Large Language Models (LLMs) <em>sound</em> impressive, they are really just recombining existing information according to statistical probabilities, not actually analyzing or providing thoughtful&nbsp;responses.</p><blockquote><p>LLMs are the latest wave of artificial intelligence hype. IBM&rsquo;s Dr. Watson was supposed to revolutionize health care. Ten years and $15 billion later, it was sold for parts. Radiologists were supposed to be obsolete by 2021; there are now more radiologists than ever. Fully self-driving cars were supposed to be zipping back and forth between Los Angeles and New York by 2017; we&rsquo;re still waiting for a car that can drive down a street reliably avoiding <a href=\"https://www.telegraph.co.uk/technology/2021/08/23/silicon-valleys-driverless-car-dream-road-disaster/\">pedestrians, bicyclists and construction crews</a>.</p></blockquote><p>One could certainly mount the argument that &ldquo;AI&rdquo; (which is really a shitty catch-all term) will get better over time, and proponents of the technology will posit that feeding them more information will only make them stronger. But detractors will make the case that as the volume of AI-generated crap (disinformation, falsehoods, etc) accounts for an ever-growing proportion of the information ingested into the models, they will actually get less reliable over&nbsp;time.</p><p>I suspect the truth, as always, lies somewhere in the&nbsp;middle.</p>\n",
+				"date_published": "2023-02-23T15:55:11-04:00",
+				"url": "https://campegg.com/2023/02/23/a-couple-of.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/23/another-great-piece.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Another great piece on how our attention is being eroded for profit; this time it’s <a href=\"https://atmos.earth/johann-hari-stolen-focus-concentration-span-attention-economy-climate-action/\">an interview with Johann Hari</a>, author of <a href=\"https://www.betterworldbooks.com/product/detail/9780593138519\"><em>Stolen Focus</em></a>. The parallels between our increasing inability to focus and our inability to actually do anything about the climate crisis are pretty interesting—I think there’s a lot to the idea that there are intrinsic links between pushing both ourselves and our planet beyond tolerable levels. There’s a definite misalignment of incentives here—even in just cutting ourselves some slack and getting a good night’s&nbsp;sleep:</p><blockquote><p>Dr. Charles Czeisler, who’s the leading expert on sleep in the world, said to me, “If we did go back to sleeping as much as we need to, as much as we did a century ago, then that would cause a huge recession as people would consume an hour less every day.” In other words: If our physical needs were met, it would cause an economic&nbsp;crisis.</p></blockquote><p>I do appreciate the slightly optimistic note the on which the interview finishes, but I’m a little less hopeful that people can (or will) change enough to make a real&nbsp;difference.</p>\n",
+				"date_published": "2023-02-23T08:04:08-04:00",
+				"url": "https://campegg.com/2023/02/23/another-great-piece.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/21/the-cover-article.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>The cover article from this month&rsquo;s HBR is so, so good: <a href=\"https://hbr.org/2023/03/beware-a-culture-of-busyness\"><em>Beware a Culture of Busyness</em></a>.</p><blockquote><p>&rdquo;&hellip;when it comes to corporate life, busyness is not a virtue, and it is long past time that organizations stopped lionizing it. Evaluating employees on how busy they are is a terrible way to identify the most creative and productive talent. Yet many firms reward and promote only people who display how &lsquo;hard&rsquo; they’re&nbsp;working.&rdquo;</p></blockquote><p>It&rsquo;s not a terribly long piece, so would encourage everyone to go and read it. The idea that &ldquo;busy = productive&rdquo; needs to be killed with&nbsp;fire.</p>\n",
+				"date_published": "2023-02-21T18:09:52-04:00",
+				"url": "https://campegg.com/2023/02/21/the-cover-article.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/19/tantek-posted-this.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://tantek.com\">Tantek</a> posted this short piece about <a href=\"https://marketoonist.com/2023/01/evolution-of-smart-products.html\">the evolution of smart products</a> in the <a href=\"https://chat.indieweb.org/2023-02-19#bottom\">IndieWeb chat</a> earlier; it&rsquo;s an interesting read on a couple of different levels. Firstly, you could sub out &ldquo;IOT&rdquo; for &ldquo;AI&rdquo; and the core premise would hold up. Then there was this quote from Henry Kim, an executive at LG, about consumer&nbsp;behavior:</p><blockquote><p>“The challenge is that a consumer doesn’t see the true value that manufacturers see in terms of how that data can help them in the long run. So they don’t really care for spending time to just connect&nbsp;it.”</p></blockquote><p>This strikes me as more than a little tone deaf… I think the value element is certainly a big consideration in consumers not connecting their &ldquo;smart&rdquo; appliances, but surely a significant contributing factor is that <em>people just don&rsquo;t trust manufacturers to not abuse the data from connected appliances</em>. The value of the convenience offered by a connected device just doesn&rsquo;t outweigh having your usage data indiscriminately sold to advertisers (and possibly even less trustworthy actors). If manufacturers used my data to actually add value to my life and not as an additional revenue stream, I&rsquo;d be more likely to spend the time to connect my &ldquo;smart&rdquo;&nbsp;products.</p>\n",
+				"date_published": "2023-02-19T13:27:22-04:00",
+				"url": "https://campegg.com/2023/02/19/tantek-posted-this.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/15/i-found-this.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I found <a href=\"https://medium.com/@joncheung/capitalism-and-convenience-are-making-us-lonely-5f412f25b649\">this piece that links capitalism and loneliness</a> (via <a href=\"https://manuelmoreale.com/how-much-is-a-friendship-worth\">Manu</a>) more than a little depressing, maybe because I can somewhat relate to sentences like&nbsp;this:</p><blockquote><p>The sheer mass of individuals that people encounter every day cultivates a certain anonymity, and with it, an increasing detachment to those around&nbsp;you.</p></blockquote><p>I’ve definitely noticed that sense of anonymity that comes with living in a big (BIG!) city. Sometimes it’s nice, being able to just be a face in the crowd, but it does make it hard to create any kind of meaningful connection with those around&nbsp;you.</p>\n",
+				"date_published": "2023-02-15T07:49:15-04:00",
+				"url": "https://campegg.com/2023/02/15/i-found-this.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/14/aaron-ross-powells.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Aaron Ross Powell&rsquo;s piece on <a href=\"https://www.aaronrosspowell.com/p/the-medias-fake-tech-incompetence\">the media&rsquo;s seeming inability to work out how to use Mastodon</a>&mdash;and the usual conclusion that it&rsquo;s far too complex for the average person&mdash;is worth a read, especially the conclusion (emphasis&nbsp;mine):</p><blockquote><p>&hellip;don’t buy the handwringing about Mastodon’s impossibly difficult onboarding and interface. <strong>The open web is too valuable to let misleading people turn you&nbsp;away.</strong></p></blockquote>\n",
+				"date_published": "2023-02-14T17:45:02-04:00",
+				"url": "https://campegg.com/2023/02/14/aaron-ross-powells.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/14/youd-think-that.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>You&rsquo;d think that the idea of <a href=\"https://www.nngroup.com/articles/plain-language-experts/\">using plain language to communicate clearly</a> would be self-evident, right? But apparently some people think that using clear, straightforward language &ldquo;dumbs down content and thus insults intelligent readers&rdquo;.&nbsp;Really?</p>\n",
+				"date_published": "2023-02-14T10:56:07-04:00",
+				"url": "https://campegg.com/2023/02/14/youd-think-that.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/14/seven-years-ago.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Seven years ago today, I got on a plane to New York City with a one-way ticket and no idea what was going to happen&nbsp;next.</p>\n",
+				"date_published": "2023-02-14T10:44:00-04:00",
+				"url": "https://campegg.com/2023/02/14/seven-years-ago.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/13/apparently-microsoft-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Apparently, Microsoft is planning to roll out its its <a href=\"https://www.theverge.com/2023/2/10/23593980/microsoft-bing-chatgpt-ai-teams-outlook-integration\">&ldquo;ChatGPT-like&rdquo; AI in the Office suite</a> pretty soon. But but BUT… if it&rsquo;s not exposed via an anthropomorphized paperclip, I don&rsquo;t want to know about&nbsp;it.</p>\n",
+				"date_published": "2023-02-13T13:19:13-04:00",
+				"url": "https://campegg.com/2023/02/13/apparently-microsoft-is.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/10/have-been-spending.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Have been spending some time recently trying to wrap my head around the <a href=\"https://www.w3.org/TR/activitypub/\">ActivityPub</a> spec and I think I&rsquo;m beginning to get a sense of how it all fits together… might have to have a play with implementing some of it&nbsp;here.</p>\n",
+				"date_published": "2023-02-10T15:57:34-04:00",
+				"url": "https://campegg.com/2023/02/10/have-been-spending.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/06/a-worthwhile-read.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>A worthwhile read by Dan McQuillan: <a href=\"https://www.danmcquillan.org/chatgpt.html\"><em>We come to bury ChatGPT, not to praise it.</em></a> I&rsquo;ve played with ChatGPT a bit, and it&rsquo;s kind of cool and interesting, albeit with a lot of obvious flaws, but so many people seem to be enamored of the new, shiny thing&mdash;or perhaps the chance to get rich off the new, shiny thing&mdash;without considering the harms it can&nbsp;cause.</p><blockquote><p>Commentary that claims &lsquo;ChatGPT is here to stay and we just need to learn to live with it&rsquo; are embracing the hopelessness of what I call &lsquo;AI Realism&rsquo;. The compulsion to show &lsquo;balance&rsquo; by always referring to AI&rsquo;s alleged potential for good should be dropped by acknowledging that the social benefits are still speculative while the harms have been empirically&nbsp;demonstrated.</p></blockquote><p>For the record, I&rsquo;m not saying we should abandon the technology or <a href=\"https://en.wikipedia.org/wiki/Luddite\">take sledgehammers to the servers</a>, just that there should be more attention paid to the ethical implications of its use. (But like that&rsquo;s going to happen when there&rsquo;s money to be&nbsp;made.)</p>\n",
+				"date_published": "2023-02-06T22:18:22-04:00",
+				"url": "https://campegg.com/2023/02/06/a-worthwhile-read.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/06/ive-been-playing.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I&rsquo;ve been playing with <a href=\"https://www.raycast.com\">Raycast</a> on my Mac and have quickly become a huge fan; it&rsquo;s seamlessly replaced Magnet and LaunchBar (which are both fantastic pieces of software!) for&nbsp;me.</p>\n",
+				"date_published": "2023-02-06T16:12:13-04:00",
+				"url": "https://campegg.com/2023/02/06/ive-been-playing.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/02/06/i-missed-this.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I missed this in the swirl of other stuff going last week, but <a href=\"https://www.cnn.com/travel/article/last-boeing-747-leaves-everett-washington/index.html\">Boeing has delivered the final 747</a> to roll off the production line. The <a href=\"https://www.flightradar24.com/data/aircraft/n863gt/#2f0b1162\">flight path</a> for the maiden flight of the last &ldquo;Queen of the Skies&rdquo; to be built was a nice&nbsp;touch.</p>\n",
+				"date_published": "2023-02-06T15:24:09-04:00",
+				"url": "https://campegg.com/2023/02/06/i-missed-this.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/01/29/ben-asked-whats.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://werd.io/\">Ben</a> asked <a href=\"https://werd.io/2023/whats-the-last-book-you-read-and\">&ldquo;What’s the last book you read and loved?&rdquo;</a> —  for me, Becky Chambers&rsquo; <a href=\"https://campegg.com/books/#book-139\"><em>The Long Way to a Small, Angry Planet</em></a> is the most recent standout… given everything going on in the world right now, the optimism and humanity in her writing is just what I&nbsp;need.</p><p>(Although I don&rsquo;t think &ldquo;humanity&rdquo; is the right word when talking about a book with mostly alien characters?&nbsp;🤷🏻‍♂️)</p>\n",
+				"date_published": "2023-01-29T10:47:44-04:00",
+				"url": "https://campegg.com/2023/01/29/ben-asked-whats.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/01/25/filed-under-no.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Filed under <em>No shit, Sherlock</em>&mdash;&ldquo;<a href=\"https://www.axios.com/2023/01/25/americans-increasingly-disgruntled-at-work\">Americans are increasingly disgruntled at work</a>&rdquo;.</p><blockquote><p><strong>Of note:</strong> Workers who were in jobs that could be done remotely, but were forced to work on-site saw an increase of 7 points in active&nbsp;disengagement.</p></blockquote><p>Is anyone surprised by this? Anyone? Yeah, me neither. (And I say that as someone who actually enjoys the time I spend in the&nbsp;office.)</p>\n",
+				"date_published": "2023-01-25T17:25:24-04:00",
+				"url": "https://campegg.com/2023/01/25/filed-under-no.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/01/25/i-would-probably.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I would probably class myself as &ldquo;metaverse skeptical&rdquo;… I am not strongly anti-, but I don&rsquo;t think that the visions coming out of the big tech companies are compelling enough in any meaningful way to gain widespread adoption among non-tech folks, and think that making NFTs a &ldquo;core component&rdquo; of whatever the metaverse ends up being is a truly horrific idea. Having said that, I generally agree with the critiques raised in <a href=\"https://www.wired.com/story/metaverse-big-tech-land-grab-hype/\">Gian Volpicelli&rsquo;s article in WIRED</a>, especially this&nbsp;bit:</p><blockquote><p>The idea that everyone wants to make money—and spend money—while playing a video-game surely sounds attractive to the people making those games and selling digital tchotkes; some gamers beg to&nbsp;differ.</p></blockquote><p>There&rsquo;s a parallel here to the idea of car manufacturers making customers take out subscriptions to use features in the cars they&rsquo;ve bought. If I&rsquo;m paying for a game/car, I want to be able to fully utilize that game/car without being nickel-and-dimed to&nbsp;death.</p>\n",
+				"date_published": "2023-01-25T10:48:21-04:00",
+				"url": "https://campegg.com/2023/01/25/i-would-probably.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/01/19/interesting-comparison-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Interesting <a href=\"https://scale.com/blog/chatgpt-vs-claude\">comparison of ChatGPT and Claude</a>, two generative &ldquo;AI&rdquo; assistants. Definite strengths and weaknesses to both; both appear to be fairly good at reasoning/logic, ChatGPT seems to be stronger at responding to mathematical and coding prompts, and Claude responds a bit more naturally to broader&nbsp;questions.</p><p>The bit where they were asked to summarize <em>Lost</em> made me laugh,&nbsp;too:</p><blockquote><p>It appears that, like most human viewers of the show, both ChatGPT’s and Claude’s memory of Lost is hazy at&nbsp;best.</p></blockquote>\n",
+				"date_published": "2023-01-19T11:27:13-04:00",
+				"url": "https://campegg.com/2023/01/19/interesting-comparison-of.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/01/18/whoa-loving-these.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Whoa! Loving these <a href=\"https://www.dezeen.com/2023/01/18/unbuilt-frank-lloyd-wright-visualisations-david-romero/\">renders of unbuilt Frank Lloyd Wright buildings</a> by Spanish architect David Romero… <em>The Illinois</em> is just&nbsp;🤯.</p>\n",
+				"date_published": "2023-01-18T10:18:10-04:00",
+				"url": "https://campegg.com/2023/01/18/whoa-loving-these.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/01/12/i-started-reading.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I started reading WIRED after stumbling across it in my university library back in the mid 90s, and got myself a personal subscription&mdash;which I still have&mdash;as soon as I could afford it (the subs used to be expensive, especially in Australia!), so looking through <a href=\"https://davekarpf.substack.com/p/a-wired-compendium\">A WIRED compendium</a> by Dave Karpf at some of the highlights is a fun blast-from-the-past experience. Very glad to see my <a href=\"https://www.wired.com/2000/04/joy-2/\">all-time favorite article</a> made the&nbsp;list.</p>\n",
+				"date_published": "2023-01-12T16:32:28-04:00",
+				"url": "https://campegg.com/2023/01/12/i-started-reading.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/01/11/if-you-have.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>If you have a MasterClass subscription, I would highly recommend checking out <a href=\"https://www.masterclass.com/s/7456e33d\">Neil Gaiman talking about J.R.R. Tolkien</a>&mdash;as fascinating as the subject matter is, it&rsquo;s just as much Gaiman&rsquo;s passion for and reverence of Tolkien that makes this a worthwhile use of 26-ish minutes of your&nbsp;time.</p>\n",
+				"date_published": "2023-01-11T09:47:43-04:00",
+				"url": "https://campegg.com/2023/01/11/if-you-have.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/01/04/ive-just-started.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I&rsquo;ve just started (re-)reading Nick Earls&rsquo; <em>Brisbane Rewound Trilogy</em> (<a href=\"https://campegg.com/books/#book-143\"><em>Bachelor Kisses</em></a>, <a href=\"https://campegg.com/books/#book-144\"><em>Zigzag Street</em></a>, <a href=\"https://campegg.com/books/#book-145\"><em>Perfect Skin</em></a>)… as a kid who grew up in Brisbane in the 80s, pretty much everywhere in these books is somewhere I recognize. It&rsquo;s a fun little nostalgia trip, but having been in Brisbane recently it&rsquo;s also more than a little sad to see how much of it has&nbsp;disappeared.</p>\n",
+				"date_published": "2023-01-04T16:44:25-04:00",
+				"url": "https://campegg.com/2023/01/04/ive-just-started.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/01/03/jetlagged-af-but.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Jetlagged AF. But on the upside, I used my 3am wake up to finish Becky Chambers’ <a href=\"https://campegg.com/books/#book-139\"><em>The Long Way to a Small, Angry Planet</em></a>—I’ve only recently started reading her work, but have become a huge fan pretty&nbsp;quickly.</p>\n",
+				"date_published": "2023-01-03T08:25:55-04:00",
+				"url": "https://campegg.com/2023/01/03/jetlagged-af-but.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/01/01/also-while-i.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Also, while I was home, I went walking on grass with bare feet every day. Can’t remember the last time I did&nbsp;that.</p>\n",
+				"date_published": "2023-01-01T21:18:02-04:00",
+				"url": "https://campegg.com/2023/01/01/also-while-i.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/01/01/heading-back-stateside.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Heading back Stateside after (a far too quick!) two weeks home in Australia and prepping myself for a larger-than-normal dose of the post-vacation blues… after being away for five years, it was hard to get packed and ready to leave again this morning. And as an added bit of bonus emotional baggage, I have <em><a href=\"https://m.youtube.com/watch?v=Kwfuo8ESa5E\">I Still Call Australia Home</a></em> stuck in my head.&nbsp;🙄</p>\n",
+				"date_published": "2023-01-01T21:12:15-04:00",
+				"url": "https://campegg.com/2023/01/01/heading-back-stateside.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/12/21/i-have-been.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I have been in Australia for four days now. I have eaten Vegemite on toast for breakfast five times since getting here (if you count the “<a href=\"https://www.youtube.com/watch?v=zcGby-x5taA\">second breakfast</a>” I had&nbsp;yesterday).</p>\n",
+				"date_published": "2022-12-21T17:53:13-04:00",
+				"url": "https://campegg.com/2022/12/21/i-have-been.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/12/17/brb-heading-home.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>BRB… heading home for the first time in nearly five&nbsp;years.</p>\n",
+				"date_published": "2022-12-17T14:49:27-04:00",
+				"url": "https://campegg.com/2022/12/17/brb-heading-home.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/12/13/im-really-digging.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I&rsquo;m really digging <a href=\"https://www.bundestag.de/resource/blob/926182/c5d7edf957872ea3b724ad0a7341e3c8/Stellungnahme-White-data.pdf\">Molly White&rsquo;s statement and answers</a> for a hearing being run by the German Bundestag… probably the best summary of the web3/metaverse/crypto dumpster fire that I&rsquo;ve seen to&nbsp;date.</p>\n",
+				"date_published": "2022-12-13T12:46:12-04:00",
+				"url": "https://campegg.com/2022/12/13/im-really-digging.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/30/so-theres-apparently.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>So there’s apparently a movie coming out in February that’s “inspired by true events” titled <a href=\"https://youtu.be/hD4U_RrZTuc\"><em>Cocaine Bear</em></a>. They really didn’t bury the lede with that one,&nbsp;huh?</p>\n",
+				"date_published": "2022-11-30T21:45:06-04:00",
+				"url": "https://campegg.com/2022/11/30/so-theres-apparently.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/30/the-world-needs.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://werd.io/2022/transphobia-in-open-source\">The world needs more people like&nbsp;Ben.</a></p>\n",
+				"date_published": "2022-11-30T14:14:09-04:00",
+				"url": "https://campegg.com/2022/11/30/the-world-needs.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/27/tracy-asks-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Tracy asks &ldquo;<a href=\"https://tracydurnell.com/2022/11/26/article-pairing-is-blogging-self-indulgent/\">is blogging self indulgent?</a>&rdquo;, which may be the first counterexample to <a href=\"https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines\">Betteridge&rsquo;s law of headlines</a> I&rsquo;ve ever seen. However, my answer would be a &ldquo;yes, but…&rdquo;&mdash;<abbr title=\"In My Opinion\">IMO</abbr>, <em>all</em> blogging is fundamentally self-indulgent, but that doesn&rsquo;t mean that it&rsquo;s without value, even if it&rsquo;s not &ldquo;worthwhile&rdquo; (whatever that&nbsp;means).</p>\n",
+				"date_published": "2022-11-27T11:32:21-04:00",
+				"url": "https://campegg.com/2022/11/27/tracy-asks-is.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/23/potentially-controversial-opinion.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Potentially controversial opinion: <em>Andor</em> is the best Star Wars ever made. (Also, the post-credits scene in the season one finale is *chef’s&nbsp;kiss*.)</p>\n",
+				"date_published": "2022-11-23T11:21:21-04:00",
+				"url": "https://campegg.com/2022/11/23/potentially-controversial-opinion.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/18/seeing-a-ton.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Seeing a ton of Aus peeps showing up on Mastodon, which is pretty&nbsp;rad.</p>\n",
+				"date_published": "2022-11-18T21:55:06-04:00",
+				"url": "https://campegg.com/2022/11/18/seeing-a-ton.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/18/i-muted-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I muted the word &ldquo;Musk&rdquo; on Twitter, and now my timeline only has like 3 tweets in it. Can&rsquo;t tell if Twitter is busted or if he&rsquo;s the only thing everyone is tweeting about. 🤷🏻‍♂️ Either option is pretty&nbsp;sad.</p>\n",
+				"date_published": "2022-11-18T14:21:30-04:00",
+				"url": "https://campegg.com/2022/11/18/i-muted-the.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/18/is-anyone-surprised.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Is anyone surprised with <a href=\"https://www.theverge.com/2022/11/17/23465274/hundreds-of-twitter-employees-resign-from-elon-musk-hardcore-deadline\">the outcome of Mr-Free-Speech-Absolutist-But-I’ll-Fire-You-If-You-Criticize-Me’s ultimatum</a>? Anyone? Yeah, me&nbsp;neither.</p>\n",
+				"date_published": "2022-11-18T07:47:28-04:00",
+				"url": "https://campegg.com/2022/11/18/is-anyone-surprised.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/17/from-a-colleague.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>From a colleague this morning via Slack: &ldquo;I asked a friend who works at Twitter how they&rsquo;re doing. They said they can&rsquo;t complain.&rdquo; (Too soon? But also,&nbsp;😆😆😆)</p>\n",
+				"date_published": "2022-11-17T10:08:00-04:00",
+				"url": "https://campegg.com/2022/11/17/from-a-colleague.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/16/i-found-myself.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I found myself nodding along with everything <a href=\"https://nadh.in/blog/web2-web3/\">Kailash Nadh had to say about the “web3” thing</a>. But let’s set aside for a moment the fact that “web3” is a completely meaningless umbrella term for a collection of mostly user-hostile technologies and skip to the important&nbsp;bit:</p><blockquote><p>To think that web3 (whatever it really is) or any other technology will fix deep rooted human and societal problems is to delude ourselves and to rob ourselves of valuable energy—like some distributed ledger technologies do—that could be used elsewhere meaningfully. <strong>We need to put human-first thinking way way above technology-first thinking lest we develop a dangerous tunnel vision that reduces and abstracts human problems into mere technology features and transactions, reduce humans to mere numbers and hashes stored in databases.</strong> This is already happening at a large scale around the globe with states increasingly deploying bigger and bigger technologies for (on) citizens. <strong>We really ought to apply critical thinking and common sense and read a bit of history to truly understand ourselves before we look to distributed ledgers to fix us.</strong> (Emphasis&nbsp;mine.)</p></blockquote><p>That last sentence is pretty much perfect; no amount of decentralization or immutability is going to correct for human shitheadedness… the technology alone will solve nothing. There is nothing inherently wrong with the technology that sits behind the web we have&mdash;all of the terrible outcomes we see have been the result of a conscious decision to use that technology to design systems that deliver those terrible outcomes because it’s profitable to do&nbsp;so.</p><p>And guess what? Exactly the same thing can happen (and arguably already is happening) with “web3”. There is nothing about “web3” that will prevent people from doing shitty things to other people; anyone saying otherwise is either incredibly naïve or just straight-up&nbsp;lying.</p>\n",
+				"date_published": "2022-11-16T08:26:52-04:00",
+				"url": "https://campegg.com/2022/11/16/i-found-myself.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/15/who-wouldnt-want.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Who wouldn&rsquo;t want a 10,001-piece, (almost-) 5-foot-tall <a href=\"https://www.lego.com/en-us/product/eiffel-tower-10307\">LEGO Eiffel Tower</a>?</p>\n",
+				"date_published": "2022-11-15T13:24:23-04:00",
+				"url": "https://campegg.com/2022/11/15/who-wouldnt-want.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/14/colin-asks-how.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Colin asks “<a href=\"https://cdevroe.com/2022/11/14/11940/\">how do you balance creation vs consumption?</a>”. It ebbs and flows, and I think in general I’d be happy to get somewhere close to 50/50, but right now I’d say I’m probably around 10/90 as&nbsp;well.</p>\n",
+				"date_published": "2022-11-14T21:21:36-04:00",
+				"url": "https://campegg.com/2022/11/14/colin-asks-how.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/14/this-is-me.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://monospacedmonologues.com/2022/11/im-not-fucking-about/\">This is 100%&nbsp;me.</a></p>\n",
+				"date_published": "2022-11-14T19:51:13-04:00",
+				"url": "https://campegg.com/2022/11/14/this-is-me.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/05/its-great-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>It’s great to see more people popping up on Mastodon (if you’re heading that way, I’m @campegg@mastodon.social), but I’ll admit to being a little apprehensive about what a huge influx of people will do to the tone of the&nbsp;conversation.</p>\n",
+				"date_published": "2022-11-05T07:27:57-04:00",
+				"url": "https://campegg.com/2022/11/05/its-great-to.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/04/ouch-whats-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.wired.com/story/twitter-elon-musk-verification/\">Ouch</a>: “What’s the point of paying for a status symbol that announces your status as&nbsp;pathetic?”</p>\n",
+				"date_published": "2022-11-04T07:11:03-04:00",
+				"url": "https://campegg.com/2022/11/04/ouch-whats-the.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/03/the-vast-vast.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>The vast (VAST!) majority of Twitter threads piss me off&mdash;to the point that I&rsquo;ve muted both &ldquo;🧵&rdquo; and &ldquo;👇🏻&rdquo;&mdash;but the concept of a &ldquo;<a href=\"https://twitter.com/garius/status/1588115310124539904?t=UimshY9sdZhnZtyUECxiRg\">trust thermocline</a>&rdquo; is sufficiently compelling that I&rsquo;ll get over it in this&nbsp;instance.</p>\n",
+				"date_published": "2022-11-03T09:06:14-04:00",
+				"url": "https://campegg.com/2022/11/03/the-vast-vast.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/02/im-not-much.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I’m not much for novelty clothing, but would think about getting <a href=\"https://hypebeast.com/2022/10/homer-simpson-bush-meme-adidas-stan-smith-release-info\">a pair of Homer-backs-into-the-bushes Stan Smiths</a> (for a minute, at least… and then I probably&nbsp;wouldn’t).</p>\n",
+				"date_published": "2022-11-02T06:44:40-04:00",
+				"url": "https://campegg.com/2022/11/02/im-not-much.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/11/01/ive-been-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I&rsquo;ve been a fan of <em>McSweeney&rsquo;s Internet Tendency</em> for a long, long time now, but <a href=\"https://www.mcsweeneys.net/articles/im-not-sure-which-but-one-of-these-fifteen-pdf-files-is-the-final-draft\">this particular piece</a> cuts a little close to the bone.&nbsp;🙃</p>\n",
+				"date_published": "2022-11-01T09:49:58-04:00",
+				"url": "https://campegg.com/2022/11/01/ive-been-a.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/10/27/some-worthwhile-ideas.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Some worthwhile ideas to consider in <a href=\"https://browsercompany.substack.com/p/optimizing-for-feelings\"><em>Optimizing For Feelings</em></a> by the folks from <a href=\"https://thebrowser.company/\">The Browser Company</a>:</p><blockquote><p>When Olmstead crafted Central Park, what do you think he was optimizing for? Which metric led to Barry Jenkins’ Moonlight? What data brought the iPhone into this world? The answer is not numerical. It’s all about the feelings, opinions, experiences, and ideas of the maker themself.&nbsp;[…]</p><p>And anything new is by nature without precedent — meaning, without data to know whether it will work or&nbsp;not.</p></blockquote>\n",
+				"date_published": "2022-10-27T21:18:52-04:00",
+				"url": "https://campegg.com/2022/10/27/some-worthwhile-ideas.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/10/27/as-a-relatively.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>As a relatively recent audiobook convert, <a href=\"https://www.wired.com/story/is-listening-to-audiobooks-really-reading/\">this piece by Meghan O&rsquo;Gieblyn</a> struck a chord. It covers two of the conceptions that many people have about reading that I find pretty ridiculous: one, that reading must be &ldquo;hard work&rdquo; to be worthwhile (this goes for lots of things other than reading, too); and two, that the sole purpose of reading is the acquisition and retention of knowledge. That second one is especially idiotic… whatever happened to the idea of reading as&nbsp;entertainment?</p>\n",
+				"date_published": "2022-10-27T13:41:06-04:00",
+				"url": "https://campegg.com/2022/10/27/as-a-relatively.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/10/27/i-usually-try.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I usually try to avoid indulging in schadenfreude, but in <a href=\"https://ez.substack.com/p/mark-zuckerberg-is-going-to-kill\">this instance</a>, I&rsquo;m going to roll with&nbsp;it.</p>\n",
+				"date_published": "2022-10-27T09:44:25-04:00",
+				"url": "https://campegg.com/2022/10/27/i-usually-try.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/10/25/this-visualization-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>This <a href=\"https://platform.leolabs.space/visualization\">visualization of objects in <abbr title=\"Low Earth Orbit\">LEO</abbr></a> is simultaneously kinda cool (look at all the things!), a little sad (look at all the debris!) and vaguely terrifying (look at all the Starlink&nbsp;satellites!).</p>\n",
+				"date_published": "2022-10-25T09:19:35-04:00",
+				"url": "https://campegg.com/2022/10/25/this-visualization-of.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/10/13/i-realize-that.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I realize that it&rsquo;s a long way from the point of <a href=\"https://www.wired.com/story/desis-and-dragons-desiquest-south-asian-rpg-diversity/\">the article</a>, but WTF is a &ldquo;cozy cottage-core&rdquo; RPG? 🤔 I&rsquo;m imagining something like a table top version of <em>Animal Crossing</em>, but really have no&nbsp;idea.</p>\n",
+				"date_published": "2022-10-13T12:30:01-04:00",
+				"url": "https://campegg.com/2022/10/13/i-realize-that.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/10/12/how-is-it.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>How is it that we can stream GPU-intensive video games, but are still stuck with shitty, laggy VNC for connecting to remote&nbsp;desktops?</p>\n",
+				"date_published": "2022-10-12T22:12:56-04:00",
+				"url": "https://campegg.com/2022/10/12/how-is-it.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/10/11/if-youve-got.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>If you’ve got a minute or two to spare, <a href=\"https://werd.io/2022/how-do-you-read-fiction\">go fill out Ben’s survey</a>. As someone who has recently started reading more fiction myself, I’ll be very interested to see what comes out of&nbsp;it.</p>\n",
+				"date_published": "2022-10-11T21:32:46-04:00",
+				"url": "https://campegg.com/2022/10/11/if-youve-got.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/10/11/the-more-i.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>&ldquo;…<a href=\"https://adactio.com/journal/19514\">the more I learned, the more ludicrous it became</a>&ldquo;&mdash;Jeremy captures almost exactly how I feel when I hear people bang on about various crypto projects. I did have hope for the underlying tech for a while, but that&rsquo;s about dead&nbsp;now.</p>\n",
+				"date_published": "2022-10-11T11:02:02-04:00",
+				"url": "https://campegg.com/2022/10/11/the-more-i.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/10/04/this-subway-sandwich.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>This <a href=\"https://gothamist.com/news/the-mta-now-has-a-signature-subway-sandwich-by-katzs-and-alidoro\">subway sandwich</a> (note: it&rsquo;s a collaboration between Katz&rsquo;s and Alidoro, not a sub from capital-S Subway!) looks amazing, but the fact that it&rsquo;s not available at Alidoro on Sullivan St is a&nbsp;travesty.</p>\n",
+				"date_published": "2022-10-04T18:09:06-04:00",
+				"url": "https://campegg.com/2022/10/04/this-subway-sandwich.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/10/03/i-know-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I know a few people (mostly looking at you <a href=\"https://jamesg.blog\">James</a> 😉) that might be interested in <a href=\"https://www.escardio.org/The-ESC/Press-Office/Press-releases/Coffee-drinking-is-associated-with-increased-longevity\">this press release from theEuropean Society of Cardiology</a> (or, for the really eager reader, <a href=\"https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac189/6704995\">the study itself</a>):</p><blockquote><p>Drinking two to three cups of coffee a day is linked with a longer lifespan and lower risk of cardiovascular disease compared with avoiding coffee, according to research published today in the European Journal of Preventive Cardiology, a journal of the ESC. The findings applied to ground, instant and decaffeinated&nbsp;varieties.</p></blockquote><p>☕️++</p>\n",
+				"date_published": "2022-10-03T09:20:47-04:00",
+				"url": "https://campegg.com/2022/10/03/i-know-a.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/10/01/if-this-article.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>If <a href=\"https://www.theatlantic.com/technology/archive/2022/09/elon-musk-texts-twitter-trial-jack-dorsey/671619/\">this article</a> doesn’t convince you that our tech billionaire overlords have <abbr title=\"No Fucking Idea\">NFI</abbr> what they’re doing, nothing&nbsp;will.</p>\n",
+				"date_published": "2022-10-01T06:31:05-04:00",
+				"url": "https://campegg.com/2022/10/01/if-this-article.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/29/if-you-want.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>If you want to learn how to make your own version of a £3.94 toaster for only £1187.54 (😱), take  a look at <a href=\"https://theprepared.org/features-feed/toaster-project\">today&rsquo;s issue of The Prepared</a>. Definitely going to pick up a copy of <a href=\"https://www.betterworldbooks.com/product/detail/9781568989976\">The Toaster Project</a>.</p>\n",
+				"date_published": "2022-09-29T16:46:22-04:00",
+				"url": "https://campegg.com/2022/09/29/if-you-want.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/27/icymi-nasadeliberatelycrashed-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>ICYMI, NASA&mdash;deliberately!&mdash;<a href=\"https://www.space.com/dart-asteroid-mission\">crashed a spacecraft into an asteroid</a> to try and divert it, just like they would to avoid an <em>Armageddon</em>-like event where there’s a danger of one <em>Deep Impact</em>-ing the Earth. (See what I did&nbsp;there?)</p>\n",
+				"date_published": "2022-09-27T06:48:30-04:00",
+				"url": "https://campegg.com/2022/09/27/icymi-nasadeliberatelycrashed-a.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/23/i-spent-several.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I spent several hours last night banging my head against a wall trying to get <a href=\"https://wallabag.org/en\">Wallabag</a> set up. A quick <a href=\"https://chat.indieweb.org/dev/2022-09-23#t1663894702377000\">cry for help in the IndieWeb chat</a> revealed that I had been reading a ‘&lt;’ as a ‘&gt;’. 🤦🏻‍♂️ With that idiocy resolved, it took me about 15 mins to get things up and running this evening. There’s also an iOS app and&mdash;surprisingly!&mdash;a Safari extension, so the switch from Pocket has been remarkably&nbsp;painless.</p>\n",
+				"date_published": "2022-09-23T18:20:58-04:00",
+				"url": "https://campegg.com/2022/09/23/i-spent-several.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/22/i-loved-nina.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I loved <a href=\"https://www.theatlantic.com/culture/archive/2022/09/rewatching-spirited-away-hayao-miyazaki/671486/\">Nina Li Coomes’ article about rewatching Spirited Away</a>; it’s a film I can (and do!) go back to as well. Also noted: her point about “the precarity of media”&mdash;I’ve been bitten by stuff disappearing from streaming&nbsp;too.</p>\n",
+				"date_published": "2022-09-22T06:49:21-04:00",
+				"url": "https://campegg.com/2022/09/22/i-loved-nina.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/20/lots-to-unpack.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Lots to unpack and think about in <a href=\"https://newsletters.theatlantic.com/galaxy-brain/6328fa97bcbd490021b314da/personal-tech-obsolete-user-experience/\">today’s <em>Galaxy Brain</em></a>; creativity as “a by-product of mastery,” tech designed to make us inattentive, our fixation with (and veneration of) building over maintaining…&nbsp;🤔</p>\n",
+				"date_published": "2022-09-20T06:38:19-04:00",
+				"url": "https://campegg.com/2022/09/20/lots-to-unpack.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/19/thematically-related-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Thematically related to <a href=\"https://campegg.com/bookmarks/326\">the bookmark I posted earlier today</a>: <a href=\"https://www.w3.org/2001/tag/doc/ethical-web-principles/\">W3C TAG Ethical Web Principles</a>. It&rsquo;s nice to know that the people shaping the direction of the web are thinking about what can be done to make it better beyond just the&nbsp;technologies.</p><p><em>(Via <a href=\"https://adactio.com/links/19465\">Jeremy Keith</a>)</em></p>\n",
+				"date_published": "2022-09-19T12:57:10-04:00",
+				"url": "https://campegg.com/2022/09/19/thematically-related-to.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/19/til-a-name.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>TIL a name for something I see almost every day, but for which I didn&rsquo;t have a good label: <a href=\"https://twitter.com/shreyas/status/1391594513873788932\">Certainty Theatrics</a>.</p>\n",
+				"date_published": "2022-09-19T09:03:03-04:00",
+				"url": "https://campegg.com/2022/09/19/til-a-name.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/18/note-ive-had.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><em>(Note: I’ve had this article open in a tab for weeks now, and I was going to write something a little more thought-out about it, but now I just want to post it and close the window because it’s kind of depressing&nbsp;me.)</em></p><p>Ted Gioia asks <a href=\"https://tedgioia.substack.com/p/where-did-the-long-tail-go\"><em>“Where Did the Long Tail Go?”</em></a> It’s a great question; I read and enjoyed Chris Anderson‘s book, but it’s pretty much turned out to be a bust&mdash;if anything (and I know this is a broad generalization, and that there are some counter-examples), it appears that big players selling huge amounts of high-grossing product have become even more entrenched and dominant in the market, squeezing out the potential long-tailers that were supposed to&nbsp;flourish.</p><p>And, sadly, I think Gioia’s explanation around why the Long Tail has proven false is&nbsp;accurate:</p><blockquote><p>There’s one more reason why the Long Tail has died in the digital world. Web platforms aren’t really focused on serving users—what they really want to do is control users. This almost always requires them to squeeze out niche and alternative views, and force as many customers as possible to follow the&nbsp;herd.</p></blockquote><p><em>The Long Tail</em> was published back in 2006, just before the rise of the social media giants, so while the premise may have been reasonable back then, my hypothesis is that the amplification + homogenization of cultural trends (“echo chambers”) that the social silos created has made it infinitely more difficult for the people on the fringes that were supposed to benefit to actually break through and reach the audiences that would enable them to&nbsp;thrive.</p>\n",
+				"date_published": "2022-09-18T07:27:58-04:00",
+				"url": "https://campegg.com/2022/09/18/note-ive-had.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/17/a-couple-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>A couple of trivially interesting Melbourne-related things I saw this&nbsp;morning:</p><ol><li>Melbourne made the <a href=\"https://www.mentalfloss.com/posts/cities-with-most-skyscrapers\">top 25 list of cities with the most skyscrapers</a>, but Sydney did not (apparently, <a href=\"https://www.skyscrapercenter.com/cities\">Sydney sits at #42</a>); I would never have thought&nbsp;that.</li><li>The City of Melbourne has decided <a href=\"https://monocle.com/minute/2022/09/17/#5\">that the smell from a Vegemite factory is “of significant heritage value”</a> and will need to be “acknowledged” (whatever that means) in any future redevelopment. I also totally agree with the&mdash;admittedly Australian&mdash;author’s assessment that this settles the argument about the superiority of Vegemite over (🤢)&nbsp;Marmite.</li></ol>\n",
+				"date_published": "2022-09-17T08:14:22-04:00",
+				"url": "https://campegg.com/2022/09/17/a-couple-of.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/14/since-i-got.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Since I got injured last year, running and I have not been great friends, but I do miss having something to do outdoors. And because I apparently need more aggravation in my life, I’ve decided to pick up the clubs again (after a long hiatus!) to try to <a href=\"https://quoteinvestigator.com/2010/05/28/golf-good-walk/\">spoil a few good walks</a>. ⛳️</p>\n",
+				"date_published": "2022-09-14T08:43:55-04:00",
+				"url": "https://campegg.com/2022/09/14/since-i-got.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/14/the-verge-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.theverge.com/\">The Verge</a> is trying something “new” (is it new? Or maybe “different” is a better&nbsp;word?):</p><blockquote><p>We also thought about where we came from and how we built The Verge into what it is today. And we landed on: well shit, we just need to blog&nbsp;more.</p></blockquote><p>While the new design is… fine, I guess 🤷🏻‍♂️, the <a href=\"https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo\">change in direction</a> is something I’d like to see from more media outlets; rather than rehashing the same stories as everyone else, just link out to good reporting and spend the time working on your own stories. How well it works for them remains to be seen, but it’s definitely a worthwhile experiment and I hope it’s a successful model that catches on&nbsp;elsewhere.</p>\n",
+				"date_published": "2022-09-14T06:54:23-04:00",
+				"url": "https://campegg.com/2022/09/14/the-verge-is.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/08/had-a-bit.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Had a bit of a poke around the <a href=\"https://stevejobsarchive.com\">Steve Jobs Archive</a> that launched yesterday… had seen/heard some of it before, but still lots of new (to me, at least) stuff&mdash;that email!&mdash;to explore. Looks like there might be more to come, too&nbsp;(🤞🏻).</p>\n",
+				"date_published": "2022-09-08T10:54:52-04:00",
+				"url": "https://campegg.com/2022/09/08/had-a-bit.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/07/farewell-iphone-mini.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Farewell, iPhone mini, we hardly knew ye. 😢 (Seriously, am I the only person on earth who likes having a small&nbsp;phone?)</p>\n",
+				"date_published": "2022-09-07T18:23:31-04:00",
+				"url": "https://campegg.com/2022/09/07/farewell-iphone-mini.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/07/apparently-facebook-doesnt.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Apparently <a href=\"https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/\">Facebook doesn&rsquo;t know where all of your personal data is</a>&hellip; unless it&rsquo;s to to sell you to advertisers (or undermine democracy!), then they know exactly where it&nbsp;is.</p>\n",
+				"date_published": "2022-09-07T12:26:14-04:00",
+				"url": "https://campegg.com/2022/09/07/apparently-facebook-doesnt.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/06/i-pretty-much.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I pretty much agree with everything in <a href=\"https://www.wired.com/story/twitter-democracy-harm-reduction/\">this article from WIRED</a>; the &ldquo;harm reduction&rdquo; language threw me off a bit at first, but looking at it in the same way as (e.g.) drug policy might not be the worst approach. Twitter is not going away, so mitigating some of its worst effects is probably about the best we can&nbsp;do.</p>\n",
+				"date_published": "2022-09-06T13:07:48-04:00",
+				"url": "https://campegg.com/2022/09/06/i-pretty-much.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/03/i-dont-think.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I don’t think I’m sad about <a href=\"https://www.curbed.com/2022/08/goodbye-metrocard-machine-friendly-interface.html\">the impending disappearance of Metrocard vending machines</a>, but I did find the design story fascinating&mdash;I never picked up on the color-coded areas (which I guess makes it great design… it’s invisible).</p>\n",
+				"date_published": "2022-09-03T16:20:55-04:00",
+				"url": "https://campegg.com/2022/09/03/i-dont-think.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/03/i-started-my.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I started <a href=\"https://campegg.com/notes/20220824163738\">my experiment with “immersion reading”</a> this afternoon. Initial thoughts:</p><ul><li>It’s a very different way of taking in information; too early to tell if it’s more effective than just reading or listening alone, but it kind of <em>feels</em> like it is… will be worth seeing if my comprehension and recall is any better after I’ve finished</li><li>It’s quite a bit slower than my usual reading speed&mdash;maybe that’s contributing to the feeling of effectiveness?</li><li>Listening to an author read their own work does give first-person statements more impact… it actually <em>is</em> what they’ve said or felt or experienced</li><li>I’m not sure if this approach would work the same with fiction; at least to me, I think it seems better suited to non-fiction (but will have to try it with a work of fiction to test that assertion)</li></ul>\n",
+				"date_published": "2022-09-03T15:08:20-04:00",
+				"url": "https://campegg.com/2022/09/03/i-started-my.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/09/02/couldnt-agree-more.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Couldn’t agree more with <a href=\"https://www.nytimes.com/2022/09/01/opinion/rings-of-power-amazon-tolkien.html\">this NYT article</a>… as much as&mdash;or maybe because&mdash;I love the books, a “Tolkien Cinematic Universe” would be truly awful (still going to watch <em>Rings of Power</em>, though).</p>\n",
+				"date_published": "2022-09-02T20:10:53-04:00",
+				"url": "https://campegg.com/2022/09/02/couldnt-agree-more.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/31/id-far-rather.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<blockquote><p>&ldquo;I&rsquo;d far rather be happy than right any day.&rdquo;\n<cite>&mdash;<a href=\"https://en.wikipedia.org/wiki/Slartibartfast\">Slartibartfast</a></cite></p></blockquote>\n",
+				"date_published": "2022-08-31T11:28:23-04:00",
+				"url": "https://campegg.com/2022/08/31/id-far-rather.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/31/the-whole-piece.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>The whole piece is subscriber-only, but it’s worth reading the non-paywalled bits of <a href=\"https://newsletters.theatlantic.com/galaxy-brain/630ec150bcbd490021b17eab/business-dudes-need-to-stop-talking-like-this/\">the latest edition of Charlie Warzel’s Galaxy Brain</a> about how business dudes&mdash;and let&rsquo;s face it, it&rsquo;s almost always dudes who are spouting this crap&mdash;talk about (🤢) “the metaverse”.</p><blockquote><p>The article is a phenomenal example of what I’m going to call “business-dude lorem ipsum.” It is filler language that is used to roleplay “thought leadership” among those who have nothing to say: the MBA version of a grade-school book report that starts with a Webster’s Dictionary definition. Advanced business-dude lorem ipsum will convey action (“We need to design value in stages”) but only in the least tangible way possible. It will employ industry terms of art (“We’re first to market or a fast follower”) that indicate the business dude has been in many meetings where similar ideas were hatched. Business-dude lorem ipsum will often hold one or two platitudes that sound like they might also be Zen koans (“That value is in the eye of the beholder”) but actually are so broad that they say nothing at all.</p></blockquote>\n",
+				"date_published": "2022-08-31T09:27:36-04:00",
+				"url": "https://campegg.com/2022/08/31/the-whole-piece.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/30/jim-nielsen-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Jim Nielsen is (at least!) a million times better than I am when it comes to anything coding-related, but <a href=\"https://blog.jim-nielsen.com/2022/trying/\">I can totally relate to this</a>.</p>\n",
+				"date_published": "2022-08-30T17:07:14-04:00",
+				"url": "https://campegg.com/2022/08/30/jim-nielsen-is.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/30/james-posted-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://jamesg.blog\">James</a> posted a link to <a href=\"https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news\">this New Yorker Article about Hacker News</a> from 2019 <a href=\"https://chat.indieweb.org/microformats/2022-08-30#t1661878615404700\">in the IndieWeb chat</a> a little earlier, and it encapsulates a lot of the way I think about the site, especially this bit:</p><blockquote><p>“&hellip;They’re people who are convinced that they are too special for rules, and too smart for education. They don’t regard themselves as inhabiting the world the way other people do; they’re secret royalty, detached from society’s expectations and unfailingly outraged when faced with normal consequences for bad decisions. Society, and especially economics, is a logic puzzle where you just have to find the right set of loopholes to win the game. Rules are made to be slipped past, never stopping to consider why someone might have made those rules to start with. Silicon Valley has an ethics problem, and ‘Hacker’ ‘News’ is where it’s easiest to see.”</p></blockquote><p>Like just about any site that allows people to contribute their thoughts&mdash;reading through the commentary can be soul-sucking at times; there&rsquo;s a constant undertone of everyone wanting to prove that they&rsquo;re smarter than everyone else, combined with a faux hyper-rational-libertarian bent (which <a href=\"https://campegg.com/notes/20220406140102\">I already have feelings about</a>) that can, at times, lean uncomfortably close to misogyny and racism. Anyone who provides any kind of humanist opinion is almost invariably labeled a &ldquo;SJW&rdquo;, or social justice warrior, which is apparently A Bad Thing.</p><p>I generally like the types of links that are posted to <a href=\"https://news.ycombinator.com/\">HN</a>, even if many of them are about technical topics that I don&rsquo;t fully understand, but it can get both exhausting and exasperating at times.</p>\n",
+				"date_published": "2022-08-30T14:56:39-04:00",
+				"url": "https://campegg.com/2022/08/30/james-posted-a.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/28/inspired-by-attending.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Inspired by attending the <a href=\"https://www.betaworks.com/event/render-tools-for-thinking\">RENDER(); Tools for Thinking</a> conference a couple of weeks back, I&rsquo;ve dusted off some ideas I had for building a <a href=\"https://campegg.net/\">digital garden</a> and re-started collecting some thoughts, which&mdash;with a bit of effort&mdash;I&rsquo;m looking (hoping?) to grow over time.</p>\n",
+				"date_published": "2022-08-28T16:11:34-04:00",
+				"url": "https://campegg.com/2022/08/28/inspired-by-attending.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/24/one-of-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>One of the (many!) concepts that I learned about at the <a href=\"https://betaworkss-fabulous-project.webflow.io/event/render-tools-for-thinking\">Tools for Thinking</a> conference last week was &ldquo;immersion reading&rdquo;&mdash;it&rsquo;s where one both reads a book and listens to the audio version of it at the same time. It&rsquo;s often used as a tool in education, especially for foreign languages, and is supposed to aid with both comprehension and recall.</p><p>I&rsquo;ve found the idea sufficiently intriguing that I&rsquo;ve decided to give it a try using Annie Murphy Paul&rsquo;s book, <a href=\"https://www.betterworldbooks.com/product/detail/9780358695271\"><em>The Extended Mind</em></a>, mostly because it was mentioned in <a href=\"https://www.jerrysbrain.com\">Jerry Michalski</a> and <a href=\"http://rheingold.com\">Howard Rheingold</a>&lsquo;s <em>The History and Future of Software as Tools for Thinking</em> session during the day, but also because it was cosigned by <a href=\"https://boffosocko.com\">Chris Aldrich</a> in the <a href=\"https://etherpad.indieweb.org/ToolsForThinking#L191\">IndieWeb Etherpad notes</a>.</p><p>Should be a fun&mdash;and worthwhile&mdash;experiment.</p>\n",
+				"date_published": "2022-08-24T16:37:38-04:00",
+				"url": "https://campegg.com/2022/08/24/one-of-the.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/24/its-a-point.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>It&rsquo;s a point of personal pride that I avoid reading listicles (but a point of personal shame that I just used that awful portmanteau). HOWEVER, I will always make an exception for <em>&ldquo;Top [x] Things to Buy/Try at Trader Joe&rsquo;s&ldquo;</em> articles because&mdash;In my experience, at least&mdash;there are far more hits than misses in those.</p>\n",
+				"date_published": "2022-08-24T13:22:01-04:00",
+				"url": "https://campegg.com/2022/08/24/its-a-point.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/15/dont-subscribe-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><em>Don’t subscribe to sites that do news as a business</em> is a great rule of thumb for choosing what to have lined up in your RSS reader (and one that I should get better at following!). But <a href=\"https://chriscoyier.net/2022/08/15/sweet-spot-for-rss/\">Chris Coyier’s post about the “sweet spot” for RSS feeds</a> did get me thinking; I don’t necessarily agree that one should just unsubscribe from high-volume feeds… I like his idea about pausing feeds, but I think what I’d like would be the ability to limit a feed to a certain number of items (say, 10). As new items get added to the feed, they push out older items. It might mean missing a few articles, but it would also stop the unread count from getting out of control.</p><p>Yes, it’s “a niche feature for a thing that is already niche”, but it’s often the niche features that make software great.</p>\n",
+				"date_published": "2022-08-15T19:55:23-04:00",
+				"url": "https://campegg.com/2022/08/15/dont-subscribe-to.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/14/if-youre-interested.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>If you’re interested in the oddities of technology, there are some weird and wonderful things surfaced in <a href=\"https://news.ycombinator.com/item?id=32452673\">this Hacker News thread about “quirky computing books”</a>, but the standout one for me is <em><a href=\"https://web.mit.edu/~simsong/www/ugh.pdf\">The Unix-Haters Handbook</a></em> (also, 😆 at the filename… “ugh.pdf”). I’ve been bitten by quite of the few of the things in this book, and it kind of makes me happy&mdash;or at least, less silly &mdash; to hear that even experienced Unix users get caught out occasionally, too.</p>\n",
+				"date_published": "2022-08-14T08:39:11-04:00",
+				"url": "https://campegg.com/2022/08/14/if-youre-interested.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/13/while-ive-been.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>While I’ve been messing about with various types of code for a long time now, it’s all been directed at web-type stuff… “real” programming (i.e. languages that need to be compiled) has always been a little intimidating. But I’ve decided I’d like to dip a toe in that particular pond, so have started trying to teach myself <a href=\"https://www.swift.org/\">Swift</a>&mdash;it seems like a less-hard introduction to the space.</p>\n",
+				"date_published": "2022-08-13T13:20:24-04:00",
+				"url": "https://campegg.com/2022/08/13/while-ive-been.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/11/the-nyt-has.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>The NYT has had a pretty strong interactive essay game going for a while now, and today&rsquo;s one on <em><a href=\"https://www.nytimes.com/interactive/2022/08/11/arts/anime-hugs.html\">The Power of Hugs in Anime</a></em> is another good addition to the list.</p>\n",
+				"date_published": "2022-08-11T12:46:20-04:00",
+				"url": "https://campegg.com/2022/08/11/the-nyt-has.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/11/weve-been-watching.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>We’ve been watching <a href=\"https://www.imdb.com/title/tt7671070/\">Industry</a> over the past 5 or so nights and it’s one of the least good things I’ve seen recently. Technically, it’s well put-together and (generally) well acted, but there are precisely zero characters in it that are even the least bit likable; they are just all really terrible people, albeit in different ways. That has to have been a conscious decision on the part of the writers to make a point, right?</p><p>I definitely don’t like it, but my completionist tendencies are probably going to keep me watching until the end of season two. 🙄</p>\n",
+				"date_published": "2022-08-11T06:58:04-04:00",
+				"url": "https://campegg.com/2022/08/11/weve-been-watching.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/10/dominos-is-shutting.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.nytimes.com/2022/08/09/world/europe/dominos-pizza-italy-closes.html\">Domino&rsquo;s is shutting down their Italian operations</a>. Who&rsquo;d have thought that trying to sell mass-market pizza in a market saturated with <em>great</em> pizza wouldn&rsquo;t have worked out for them? I&rsquo;m shocked. Shocked!</p>\n",
+				"date_published": "2022-08-10T08:23:24-04:00",
+				"url": "https://campegg.com/2022/08/10/dominos-is-shutting.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/08/this-post-by.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>This <a href=\"https://colly.com/articles/the-story-of-bearface\">post by Simon Collison</a> made me feel all the feels. Certainly sad, but also hopeful.</p><blockquote><p>I’ve learned a few things about grief as I’ve gotten older, notably, that the pain is equal to the depth of love, that the more you love someone or something, the more you will grieve, and that’s comforting. There is much to comfort us, and I’m pleased to write that we’re doing ok. We’re happy.</p></blockquote><p>I&rsquo;m so sorry for your loss, Simon. But also glad you had all that time together.</p><p>And now I&rsquo;m going to go give <a href=\"https://campegg.com/photos/20211217080003\">Omelette</a> a hug and some scratches.</p>\n",
+				"date_published": "2022-08-08T13:10:45-04:00",
+				"url": "https://campegg.com/2022/08/08/this-post-by.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/08/ive-been-trying.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I&rsquo;ve been trying to read more&mdash;with varying amounts of success&mdash;and the &ldquo;&hellip;lingering guilt if it isn’t an important book, or at least an improving one&rdquo; has been a real thing for me. But after reading through <em><a href=\"https://www.vox.com/even-better/23269893/start-reading-ritual-books?ref=refind\">How to Fall Back in Love with Reading</a></em> this morning, I feel less bad about my recent predilection to read (and re-read) fiction.</p><blockquote><p>Whatever you need to do to reestablish a reading habit is a net benefit, and that should extend to what you read, too. That might require divorcing yourself from the notion that books have to be important or educational to be legitimate. “Just give yourself permission to read whatever you’re interested in reading,” Escoto says.</p></blockquote><p>I probably <em>should</em> start folding some more non-fiction back into <a href=\"/books/\">my reading</a> at some point, but for now, I&rsquo;m just going to keep reading what makes me happy.</p>\n",
+				"date_published": "2022-08-08T11:42:52-04:00",
+				"url": "https://campegg.com/2022/08/08/ive-been-trying.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/08/02/whoa-heavy-nostalgia.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Whoa. Heavy nostalgia vibes&hellip; <a href=\"https://www.bleepingcomputer.com/news/software/winamp-releases-new-version-after-four-years-in-development/?utm_source=substack&amp;utm_medium=email\">a new version of Winamp has just been released</a>. The bad news is that Windows XP and Vista users (😆) are SOL.</p>\n",
+				"date_published": "2022-08-02T16:21:58-04:00",
+				"url": "https://campegg.com/2022/08/02/whoa-heavy-nostalgia.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/28/i-could-not.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I could not agree more with <a href=\"https://manuelmoreale.com/thoughts/thoughts-on-rss\">Manu&rsquo;s four pieces of advice for people getting started with RSS</a>, especially #2 and #3&mdash;although I will admit that I am moderately terrible at #1 and #3 applies to <em>everything</em>, not just your RSS reader.</p>\n",
+				"date_published": "2022-07-28T11:36:05-04:00",
+				"url": "https://campegg.com/2022/07/28/i-could-not.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/28/taking-a-cue.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Taking <a href=\"https://werd.io/2022/inputs\">a cue from Ben Werdmüller</a>, I cobbled together <a href=\"https://campegg.com/blogroll/subscriptions.opml\">an OPML file of my RSS subscriptions</a> (but haven’t published it to GitHub… yet), so if you want to (why?!) you can import them into your feed reader and see all the same stuff that I do.</p><p>Related: it is kind of interesting, poking about in other peoples’ feed lists&mdash;it’s a great way to discover new things, but OPML really isn’t a friendly way to do that, and importing someone else’s feeds wholesale isn’t really the way I’d choose to go about it (see “why?!” above). Personally, I much prefer being able to peruse a blogroll-like-object (like <a href=\"https://blogroll.org/\">Blogroll</a>, or even like <a href=\"/blogroll/\">mine</a>).</p>\n",
+				"date_published": "2022-07-28T06:36:56-04:00",
+				"url": "https://campegg.com/2022/07/28/taking-a-cue.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/25/tiny-review-im.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Tiny review: I’m thoroughly enjoying Becky Chambers’ <em><a href=\"https://www.tor.com/2020/04/16/introducing-monk-robot-a-new-series-by-becky-chambers/\">Monk and Robot</a></em> books… the lack of an antagonist threw me a bit to start, but the setting and narrative are beautifully realized.</p>\n",
+				"date_published": "2022-07-25T19:41:59-04:00",
+				"url": "https://campegg.com/2022/07/25/tiny-review-im.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/24/quite-a-bit.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Quite a bit of alignment between the “<a href=\"/notes/20220718071940\">bad coffee</a>” thing I posted the other day and <a href=\"https://rubenerd.com/cnbc-on-why-starbucks-failed-in-australia/\">Ruben’s piece on why Starbucks didn’t catch on in Australia</a>. I more-or-less agree with the three reasons outlined from the CNBC story&mdash;the first two in particular&mdash;but would also argue that Starbucks just didn’t build the “<a href=\"http://coolstuffstudios.com/blog/how-starbucks-created-a-third-space/\">third place</a>” as well in Australia as they did elsewhere (or rather, they just tried transplant the US version into a market where we already had <em>amazing</em> options for it and didn’t offer anything better to entice change, especially the coffee).</p>\n",
+				"date_published": "2022-07-24T08:29:43-04:00",
+				"url": "https://campegg.com/2022/07/24/quite-a-bit.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/23/after-much-too.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>After much (too much!) messing about, I think I&rsquo;ve managed to work out syndicating notes from my site to <a href=\"https://mastodon.social/\">Mastodon</a>. The code needs some finessing, but it&rsquo;s a start.</p>\n",
+				"date_published": "2022-07-23T15:23:00-04:00",
+				"url": "https://campegg.com/2022/07/23/after-much-too.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/23/my-recentand-upcomingreading.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>My recent&mdash;and upcoming&mdash;<a href=\"/books/\">reading</a> seems to be leaning towards books about books. Not entirely sure about what is driving that (more than likely some recommendation algorithm!), but I&rsquo;m not too unhappy about it.</p>\n",
+				"date_published": "2022-07-23T11:39:28-04:00",
+				"url": "https://campegg.com/2022/07/23/my-recentand-upcomingreading.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/23/the-whole-concept.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>The whole concept of “connected eyewear” is pretty ridiculous; Google Glass was moderately terrible, and these (I hate that I am even typing this) Ray Ban Stories promise to be even worse&mdash;and that’s before we even start talking about the horrible company behind them.</p><blockquote><p>It is an awful idea, which will appeal primarily to awful people: those who believe themselves so important that they must be contactable at all times and so fascinating that they must always be prepared to broadcast whatever thought has most recently popped into their technology-swaddled head.</p></blockquote><p>That’s a *chef’s kiss* description from today’s <em><a href=\"https://monocle.com/minute/2022/07/23/\">Monocle Minute</a></em> of the type of person that will be wearing these stupid things.</p>\n",
+				"date_published": "2022-07-23T06:45:07-04:00",
+				"url": "https://campegg.com/2022/07/23/the-whole-concept.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/18/i-realize-that.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I realize that the point being made in <em><a href=\"https://www.seriouseats.com/the-case-for-bad-coffee\">The Case for Bad Coffee</a></em> isn’t so much about the quality of the <em>coffee</em> so much as it is about the quality of the <em>experience</em>, but  you know what? As much as I like “good” coffee, I also have a soft spot for the “bad” stuff… we have a few big jars of Moccona that my mother-in law shipped over as part of a care package, I am a big, big fan of deli and diner coffee, and I have been known to grab a cup from the odd street cart, too.</p><p>All that aside, the “good” vs “bad” labelling thing is weird to me, too; kind of like pizza, even bad coffee is usually OK.</p><p><em>(Via <a href=\"https://news.ycombinator.com/item?id=32130906\">Hacker News</a>)</em></p>\n",
+				"date_published": "2022-07-18T07:19:40-04:00",
+				"url": "https://campegg.com/2022/07/18/i-realize-that.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/16/for-the-record.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>For the record, <a href=\"http://stream.boffosocko.com/2022/for-a-second-i-saw-this-photo-and-misread-the\">Chris</a> isn&rsquo;t the only person who reads my domain as &ldquo;camp egg&rdquo;&mdash;even my own mother talks about it that way.</p><p>But on the positive side, Chris&rsquo; post did trigger the thought that it could be a pretty cool emoji domain, so I went and registered <a href=\"https://⛺️🥚.to\">⛺️🥚.to</a>&hellip; get it? Pretty clever, right? Now I just need to work out what I want to do with it.</p>\n",
+				"date_published": "2022-07-16T22:13:17-04:00",
+				"url": "https://campegg.com/2022/07/16/for-the-record.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/15/python-keeps-surprising.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Python keeps surprising me with that&rsquo;s-so-simple-it-couldn&rsquo;t-possibly-work-that-way-but-it-actually-does moments. But it&rsquo;s also somewhat annoying when that&rsquo;s the last thing you try because the simple solution seemed <em>too</em> simple. 🤷🏻‍♂️</p>\n",
+				"date_published": "2022-07-15T05:45:29-04:00",
+				"url": "https://campegg.com/2022/07/15/python-keeps-surprising.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/10/i-cant-believe.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I can’t believe I’d never heard of <a href=\"https://en.m.wikipedia.org/wiki/Melvin_Kranzberg\">Melvin Kranzberg&rsquo;s six laws of technology</a> before today: </p><blockquote><ol><li>Technology is neither good nor bad; nor is it neutral.</li><li>Invention is the mother of necessity</li><li>Technology comes in packages, big and small.</li><li>Although technology might be a prime element in many public issues, nontechnical factors take precedence in technology-policy decisions.</li><li>All history is relevant, but the history of technology is the most relevant.</li><li>Technology is a very human activity – and so is the history of technology.</li></ol></blockquote><p>They’re all good, but #1 and #4 are especially worth noting… applicable in so many current discussions about technology (<em>cough</em> crypto <em>cough</em>).</p>\n",
+				"date_published": "2022-07-10T19:50:44-04:00",
+				"url": "https://campegg.com/2022/07/10/i-cant-believe.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/07/08/turns-out-that.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Turns out that <a href=\"https://www.techrepublic.com/article/pentagon-finds-concerning-vulnerabilities-on-blockchain/\">blockchains are, in fact, not decentralized and are often running on outdated software</a>:</p><blockquote><p>A report commissioned by the Pentagon concluded that the blockchain is not decentralized, is vulnerable to attacks and is running outdated software. The report, “<a href=\"https://assets-global.website-files.com/5fd11235b3950c2c1a3b6df4/62af6c641a672b3329b9a480_Unintended_Centralities_in_Distributed_Ledgers.pdf\">Are Blockchains Decentralized, Unintended Centralities in Distributed Ledgers</a>”, uncovered that a subset of participants can “exert excessive and centralized control over the entire blockchain system.”</p></blockquote><p>I am shocked. Shocked!</p>\n",
+				"date_published": "2022-07-08T17:53:46-04:00",
+				"url": "https://campegg.com/2022/07/08/turns-out-that.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/06/27/file-this-one.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>File this one under \"very-cool-but-incredibly-fucking-sad-that-it's-necessary\": <em><a href=\"https://www.dezeen.com/2022/06/27/maldives-floating-city-climate-change-sea-levels/\">Maldives reveals \"world's first true floating island city\" to cope with rising sea levels</a></em>.</p>\n",
+				"date_published": "2022-06-27T11:27:33-04:00",
+				"url": "https://campegg.com/2022/06/27/file-this-one.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/06/26/ive-never-really.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I’ve never really been an audiobook person, but I recently picked up the audio version of <em>The Hobbit</em>, narrated by Andy Serkis (Gollum from the Peter Jackson films) on a whim, and it was really very good — the voices he does add a lot to the experience. Now I’ve started on the rest (60+ hours!) of the <em>LOTR</em> books. This is going to take a while.</p>\n",
+				"date_published": "2022-06-26T19:50:51-04:00",
+				"url": "https://campegg.com/2022/06/26/ive-never-really.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/06/24/another-of-those.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Another of those instances where I could basically quote the whole article... Bruce Schneier <em><a href=\"https://www.schneier.com/blog/archives/2022/06/on-the-dangers-of-cryptocurrencies-and-the-uselessness-of-blockchain.html\">On the Dangers of Cryptocurrencies and the Uselessness of Blockchain</a></em>:</p><blockquote><p>This is my basic argument: blockchain does nothing to solve any existing problem with financial (or other) systems. Those problems are inherently economic and political, and have nothing to do with technology. And, more importantly, technology can’t solve economic and political problems. Which is good, because adding blockchain causes a whole slew of new problems and makes all of these systems much, much worse.</p></blockquote><p>Unfortunately, most crypto boosters either won't read the post, or will read it and immediately burst into flames without considering any of the points it makes.</p>\n",
+				"date_published": "2022-06-24T06:46:38-04:00",
+				"url": "https://campegg.com/2022/06/24/another-of-those.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/06/21/ive-been-reading.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I've been reading <a href=\"https://avc.com/\">Fred Wilson's blog</a> for as long as I can remember... it's been one of the mainstays in my feed reader over many years now. But recently, I've found myself getting more than a little frustrated with the way he talks about his positions on things; mostly his almost-but-not-quite-maximalist position on crypto, but also just how detached he seems to have become from the realities that actually impact the humans that work at the companies his firm funds (I would say that this is likely true of the majority of VCs and their portfolio companies). <a href=\"https://avc.com/2022/06/staying-positive-2/\">Today's post</a> is a case in point:</p><blockquote><p>Yes, it is our collective fault for getting out over our skis during the good times and not seeing tougher times ahead. Yes, we could have and should have been more conservative with our growth plans and hiring. Yes, it is our fault for putting our companies in the position where they have to let go of so many people.</p></blockquote><p>If you knew you were getting out over your skis, and could and should have been more conservative, and you knew you were putting your portfolio companies in an unsupportable position, why didn't you do something about it? (The answer of course, is money... exceeding the numbers in the short term always seems to trump, you know, actually building a sustainable going concern.)</p><p>That being said, I am going to keep reading—he's a super smart person, after all, and it's always good to keep up with stuff with which you don't necessarily agree. But it still pisses me off a bit.</p>\n",
+				"date_published": "2022-06-21T09:35:45-04:00",
+				"url": "https://campegg.com/2022/06/21/ive-been-reading.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/06/18/i-cant-believe.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I can’t believe I’m about to link to a (gasp!) Gawker article, but this one made me laugh: <em><a href=\"https://www.gawker.com/culture/i-should-be-able-to-mute-america\">I Should Be Able to Mute America</a></em>. Don’t get me wrong: I (mostly) have a deep, abiding respect for my adopted home, but — as a sweeping generalization — Americans take themselves way too seriously… you all need to learn to chill and laugh at yourselves a little.</p>\n",
+				"date_published": "2022-06-18T06:56:38-04:00",
+				"url": "https://campegg.com/2022/06/18/i-cant-believe.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/06/14/i-was-today.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I was today years old when I learned that Portland, OR is further north than New York City.</p>\n",
+				"date_published": "2022-06-14T16:56:20-04:00",
+				"url": "https://campegg.com/2022/06/14/i-was-today.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/05/13/this.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://snarfed.org/2022-05-13_46871\">100% this.</a></p>\n",
+				"date_published": "2022-05-13T12:40:15-04:00",
+				"url": "https://campegg.com/2022/05/13/this.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/04/29/are-you-really.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://wiscprivacy.com/publication/vca_mute/\"><em>Are You Really Muted?: A Privacy Analysis of Mute Buttons in Video Conferencing Apps</em></a>:</p><blockquote><p>In the post-pandemic era, video conferencing apps (VCAs) have converted previously private spaces — bedrooms, living rooms, and kitchens — into semi-public extensions of the office. And for the most part, users have accepted these apps in their personal space, without much thought about the permission models that govern the use of their personal data during meetings. While access to a device’s video camera is carefully controlled, little has been done to ensure the same level of privacy for accessing the microphone. In this work, we ask the question: what happens to the microphone data when a user clicks the mute button in a VCA? </p></blockquote><p>😱</p>\n",
+				"date_published": "2022-04-29T13:22:54-04:00",
+				"url": "https://campegg.com/2022/04/29/are-you-really.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/04/25/currently-waiting-for.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Currently waiting for a flight at LaGuardia, and it’s kind of weird to see so many people without masks. I’d say it’s about 50/50 for the passengers. None of the aircrew I’ve seen are wearing them, but all of the ground crew are.</p><p>(For the record, I am wearing one and will on the plane; I don’t think I’m quite ready to be unmasked in close proximity to other people for extended periods just yet.)</p>\n",
+				"date_published": "2022-04-25T11:23:55-04:00",
+				"url": "https://campegg.com/2022/04/25/currently-waiting-for.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/04/18/keeping-this-post.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Keeping <a href=\"https://gilest.org/rss-feels.html\">this post</a> handy for the times I need to explain RSS to people (which admittedly isn't all that often, but probably more frequently than you'd expect).</p>\n",
+				"date_published": "2022-04-18T12:28:23-04:00",
+				"url": "https://campegg.com/2022/04/18/keeping-this-post.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/04/06/even-outside-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Even outside of the context of <a href=\"https://rubenerd.com/accounting-for-empathy-in-automated-systems/\">the article it is taken from</a>, this opening paragraph by <a href=\"https://rubenerd.com/\">Ruben Schade</a> is right on the money (emphasis mine):</p><blockquote><p>You know the online refrain <a href=\"https://rubenerd.com/facts-over-feelings/\">facts over feelings</a>? <strong>Aside from unintentionally belying a lack of emotional intelligence, it posits that a perfectly logical world without human affordances is possible, expected, or desirable.</strong> The first two are false; we’re not robots. The latter belongs in the purview of psychopaths and handsome fictional detectives.</p></blockquote><p>Trying to debate anything with anyone online is a pretty pointless exercise, but I do hope there’s a special place in hell for all of the pretend hyper-rationalists that use this kind of argument.</p>\n",
+				"date_published": "2022-04-06T14:01:02-04:00",
+				"url": "https://campegg.com/2022/04/06/even-outside-of.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/04/04/today-is-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Today is the last day I can say that I’m in my early 40’s and for that statement to be, you know… <em>true</em>.</p>\n",
+				"date_published": "2022-04-04T20:02:14-04:00",
+				"url": "https://campegg.com/2022/04/04/today-is-the.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/03/22/wow-the-tolkien.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Wow... the <a href=\"https://www.tolkienestate.com\">Tolkien Estate</a> has posted a bunch of rare and previously-unpublished stuff to their new website. There goes my evening.</p><p><em>(Via <a href=\"https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/\">Smithsonian Magazine</a>)</em></p>\n",
+				"date_published": "2022-03-22T15:32:15-04:00",
+				"url": "https://campegg.com/2022/03/22/wow-the-tolkien.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/03/21/i-finally-got.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I finally got around to enabling <a href=\"https://support.apple.com/en-us/HT212757\">Universal Control</a> between my Mac and iPad this morning and it’s one of the most magical computer experiences I’ve encountered in recent memory. The keyboard and the mouse and even the clipboard is shared seamlessly between the devices. Amazing. 🤯</p>\n",
+				"date_published": "2022-03-21T11:29:39-04:00",
+				"url": "https://campegg.com/2022/03/21/i-finally-got.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/03/21/things-have-been.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Things have been… unsettled… recently, so updates have been pretty few and far between. I’m hoping to get back into to a more regular routine soon and get back to a more frequent posting cadence.</p>\n",
+				"date_published": "2022-03-21T07:18:13-04:00",
+				"url": "https://campegg.com/2022/03/21/things-have-been.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/03/01/shanti-escalantede-mattei.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Shanti Escalante-De Mattei, writing for <a href=\"https://www.wired.com/story/web3-governance-tokens-cryptocurrency-content-moderation/\">WIRED</a>:</p><blockquote><p>If a user has to pay to be part of web3, and if web3 is the future of the internet, it’s easy to see a future where the average consumer is completely blocked from participating. It seems like we’re in line to experience an internet where having more money very directly translates to having the power in one’s online community. An explicitly classed internet. Kind of sounds like hell.</p></blockquote><p>Yep.</p>\n",
+				"date_published": "2022-03-01T12:00:37-04:00",
+				"url": "https://campegg.com/2022/03/01/shanti-escalantede-mattei.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/02/21/i-found-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I found the last point in <a href=\"https://tomstu.art/weeknotes-111-administrative-nightmare\">Tom Stuart’s latest weeknotes</a> much funnier than I probably should have.</p>\n",
+				"date_published": "2022-02-21T10:27:20-04:00",
+				"url": "https://campegg.com/2022/02/21/i-found-the.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/02/19/gotta-say-that.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Gotta say that I really enjoyed <em><a href=\"https://www.starwars.com/series/the-book-of-boba-fett\">The Book of Boba Fett</a></em> (even if a couple of episodes were more a continuation of <em>The Mandalorian</em> than Fett’s story). But <a href=\"https://starwars.fandom.com/wiki/Mok_Shaiz\">Mayor Mok Shaiz</a> has been bothering me more and more over the week or so since I watched the finale. Not because of anything the character said or did, but more because it just sounds far too close to “<a href=\"https://mcdonaldland.fandom.com/wiki/Mayor_McCheese\">Mayor McCheese</a>”.</p>\n",
+				"date_published": "2022-02-19T08:40:53-04:00",
+				"url": "https://campegg.com/2022/02/19/gotta-say-that.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/02/15/i-didnt-know.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I didn’t know it, but <a href=\"https://www.inputmag.com/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved\">the story of the ‘high five’ couple on Wikipedia</a> is exactly what I needed to read this morning.</p><p><em>(Via <a href=\"https://waxy.org/2022/02/the-adorable-love-story-behind-wikipedias-high-five-photos/\">Waxy</a>)</em></p>\n",
+				"date_published": "2022-02-15T09:29:24-04:00",
+				"url": "https://campegg.com/2022/02/15/i-didnt-know.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/02/07/for-no-good.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>For no good reason, I've had this quote on my mind recently:</p><blockquote><p>\"I distinguish four types [of officers]. There are clever, hardworking, stupid, and lazy officers. Usually two characteristics are combined. Some are clever and hardworking; their place is the General Staff. The next ones are stupid and lazy; they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the mental clarity and strength of nerve necessary for difficult decisions. One must beware of anyone who is both stupid and hardworking; he must not be entrusted with any responsibility because he will always only cause damage.\"\n<cite><a href=\"https://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord\">General Kurt von Hammerstein-Equord</a></cite></p></blockquote>\n",
+				"date_published": "2022-02-07T10:45:17-04:00",
+				"url": "https://campegg.com/2022/02/07/for-no-good.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/28/what-exists-exists.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<blockquote><p>“What exists, exists so that it can be lost and become precious.”\n<cite><a href=\"https://www.themarginalian.org/2020/02/24/immortality-in-passing-lisel-mueller/\">Lisel Mueller</a>, <em>In Passing</em></cite></p></blockquote>\n",
+				"date_published": "2022-01-28T16:58:32-04:00",
+				"url": "https://campegg.com/2022/01/28/what-exists-exists.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/24/unfortunately-the-people.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Unfortunately, the people who really need to read this probably never will, or if they do, they won't get that it's aimed at them: <a href=\"https://www.mcsweeneys.net/articles/we-need-to-get-back-to-normal-i-say-while-i-continue-to-live-my-life-normally-as-i-have-throughout-this-pandemic\">“We Need to Get Back to Normal,” I Say, While I Continue to Live My Life Normally, As I Have Throughout This Pandemic</a>.</p>\n",
+				"date_published": "2022-01-24T15:21:15-04:00",
+				"url": "https://campegg.com/2022/01/24/unfortunately-the-people.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/19/i-dont-know.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I don't know whether I like this idea or not, but <a href=\"https://www.nytimes.com/2022/01/14/opinion/eric-adams-manhattan-expand.html\">creating another 1,760 acres of Manhattan</a> is certainly a bold play. I wonder how feasible this really is from a number of perspectives (engineering, cost, environmental, political)... but even if it was, I'm pretty sure it would just turn into a rich-person land grab and any social benefits would fall by the wayside in the rush to make a buck—or several billion—out of it.</p>\n",
+				"date_published": "2022-01-19T11:03:34-04:00",
+				"url": "https://campegg.com/2022/01/19/i-dont-know.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/18/im-a-huge.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I'm a huge fan of Bartosz Ciechanowski's interactive explainers, and <a href=\"https://ciechanow.ski/gps/\">his latest on GPS</a> is (once again) brilliant.</p>\n",
+				"date_published": "2022-01-18T15:55:33-04:00",
+				"url": "https://campegg.com/2022/01/18/im-a-huge.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/15/ive-only-read.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I’ve only read the first page of Chuck Klosterman’s <em><a href=\"https://bookshop.org/a/3428/9780399184130\">But What If We're Wrong?</a></em> and can already relate quite strongly:</p><blockquote><p>I’ve spent most of my life being wrong.<br>\nNot about everything. Just about most things. <br>\n… <br>\nAt this point, my wrongness doesn’t even surprise me. I almost anticipate it. Whenever people tell me I’m wrong about something, I might disagree with them in conversation, but—in my mind—I assume their accusation is justified, even when I’m relatively certain they’re wrong, too.</p></blockquote>\n",
+				"date_published": "2022-01-15T18:00:59-04:00",
+				"url": "https://campegg.com/2022/01/15/ive-only-read.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/15/i-dont-always.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I don’t always agree with Malcolm Gladwell (but he’s far smarter and more successful than I am, so your call on whether or not that statement is worth anything), but I am 100% aligned with <a href=\"https://malcolmgladwell.bulletin.com/womens-tennis-association-set-standard-for-crisis-response/\">his post on corporate crisis communication</a>. Sadly, I think the WTA is going to remain the outlier here. There are very few organizations that will prioritize moral and ethical behavior over profit.</p>\n",
+				"date_published": "2022-01-15T11:17:32-04:00",
+				"url": "https://campegg.com/2022/01/15/i-dont-always.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/13/til-earths-moon.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>TIL 🤔🤯:</p><blockquote><p>“Earth’s Moon is about 1/400th the diameter of the Sun, but it is also 1/400th as far from us, making the Sun and the Moon the same size on the sky—a coincidence not shared by any other planet-moon combination in the solar system, allowing for uniquely photogenic total solar eclipses.”\n<cite>—<a href=\"https://bookshop.org/a/3428/9780393609394\">Neil DeGrasse Tyson</a></cite></p></blockquote>\n",
+				"date_published": "2022-01-13T22:48:18-04:00",
+				"url": "https://campegg.com/2022/01/13/til-earths-moon.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/12/all-mens-miseries.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<blockquote><p>\"All men's miseries derive from not being able to sit in a quiet room alone.\"\n<cite>—<a href=\"https://www.azquotes.com/quote/225753\">Blaise Pascal</a></cite></p></blockquote>\n",
+				"date_published": "2022-01-12T10:40:42-04:00",
+				"url": "https://campegg.com/2022/01/12/all-mens-miseries.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/10/web-is-going.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://web3isgoinggreat.com\">Web3 is going just great</a>.</p>\n",
+				"date_published": "2022-01-10T18:52:38-04:00",
+				"url": "https://campegg.com/2022/01/10/web-is-going.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/10/this-is-some.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://9to5mac.com/2022/01/10/t-mobile-block-icloud-private-relay/\">This is some bullshit right here</a>. I'm very, very skeptical of the claim that iCloud Private Relay hampers T-Mobile's \"ability to efficiently manage telecommunication networks\"... what it does impact is their ability to harvest and sell their customers' data to brokers and advertisers.</p><p><strong>Update (4:54pm):</strong><a href=\"https://appleinsider.com/articles/22/01/10/t-mobile-may-have-started-apples-icloud-private-relay-in-the-us\">I may have jumped the gun</a>... kind of glad to be (at least partially) wrong about this one. I still think carriers trying to block OS-level features--even if it's only in Europe for now—is an arsehole move.</p>\n",
+				"date_published": "2022-01-10T17:06:17-04:00",
+				"url": "https://campegg.com/2022/01/10/this-is-some.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/09/i-watched-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I watched a couple of movies today: <a href=\"https://www.imdb.com/title/tt2406566/\">Atomic Blonde</a> and <a href=\"https://www.imdb.com/title/tt4196776/\">Jason Bourne</a>. Both were fine as rainy afternoon entertainment, but I got kinda bored by the length of the fight and/or car chase scenes. I realize that those scenes are the point of the movie and without them, they’d both be about 15 minutes long, but still.</p>\n",
+				"date_published": "2022-01-09T22:05:22-04:00",
+				"url": "https://campegg.com/2022/01/09/i-watched-a.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/08/there-are-very.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>There are very few people whose opinion on crypto(graphy)-related stuff I hold in high regard, <a href=\"https://moxie.org/2022/01/07/web3-first-impressions.html\">but Moxie Marlinspike is one of them</a>. His take on the \"early days\" argument is particularly noteworthy.</p>\n",
+				"date_published": "2022-01-08T12:21:20-04:00",
+				"url": "https://campegg.com/2022/01/08/there-are-very.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/07/we-should-replace.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><em><a href=\"https://www.vice.com/en/article/vbanny/we-should-replace-facebook-with-personal-websites\">We Should Replace Facebook With Personal Websites</a></em>. Yes. Yes we should.</p><blockquote><p>But for people who came of age in the early 2000s, sharing our lives online is second nature, and largely came without consequences. There was no indication that something we’d been conditioned to do would be quickly weaponized against us.</p></blockquote><p>Maybe there wasn't an indication back in the early- to mid-00s (and maybe I'm a bit cynical) but assuming any data that you hand over to anyone is going to be used with ill intent is really the only logical approach... and there have been many, many indications since then that any data you provide will be weaponized against you, so why do people still do it?</p>\n",
+				"date_published": "2022-01-07T11:16:07-04:00",
+				"url": "https://campegg.com/2022/01/07/we-should-replace.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/06/i-unsubscribed-from.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I unsubscribed from the Marginal Revolution RSS feed today. I've been meaning to do a bit of a cull of my feeds for a while now, but the post titled <em><a href=\"https://marginalrevolution.com/marginalrevolution/2022/01/are-princeton-and-yale-imprisoning-their-students.html\">Are Princeton and Yale imprisoning their students?</a></em> made it an easy call. First up, it's a textbook examples of <a href=\"https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines\">Betteridge's law of headlines</a>; of course those universities aren't imprisoning their students.</p><p>Yes, the restrictions Princeton and Yale are imposing are hypocritical and (in all likelihood) useless, but to equate those measures with imprisonment, even rhetorically, is incredibly counter-productive. Rather than calling attention to how silly those particular rules are, all articles like this do is give ammunition to the fringe types that scream about any actions that are taken to contain a pandemic that they don't believe is real.</p><p>I thought economists were at least supposed to try (or at least look like they're trying) to be rational and objective?</p>\n",
+				"date_published": "2022-01-06T15:02:37-04:00",
+				"url": "https://campegg.com/2022/01/06/i-unsubscribed-from.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/05/i-am-neither.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I am neither strongly pro- nor strongly anti-crypto, but I am extremely skeptical about the motivations of the people that are most active in the space; there's a strong Ayn Rand-ian lean to a lot of the rhetoric around crypto, which I personally find pretty disgusting. I'm guessing (hoping!) that I'm not alone there, and have my fingers crossed that those people aren't dissuading others with better intentions from using the underlying tech to actually effect worthwhile change. <a href=\"https://werd.io/2022/whats-possible\">Ben Werdmüller summarizes it pretty well</a>: </p><blockquote><p>If we get to a point where the only people doing innovation on the internet are the people whose values we dislike, we’re in trouble.</p></blockquote><p>I'm not saying that we all have to play nice and hold hands around the campfire, just that there needs to be a bit more balance in the equation.</p>\n",
+				"date_published": "2022-01-05T15:00:45-04:00",
+				"url": "https://campegg.com/2022/01/05/i-am-neither.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/04/ways-to-slightly.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.theguardian.com/lifeandstyle/2022/jan/01/marginal-gains-100-ways-to-improve-your-life-without-really-trying\">100 ways to slightly improve your life without really trying</a>. Lots of these I'm cool with:</p><blockquote><ol><li value=\"2\">On the fence about a purchase? Wait 72 hours before you buy it.</li><li value=\"12\">Sharpen your knives.</li><li value=\"25\">Look closely.</li><li value=\"36\">Stretch in the morning. And maybe in the evening.</li><li value=\"42\">Don’t have Twitter on your phone.</li><li value=\"59\">Always have dessert.</li><li value=\"66\">Don’t save things for “best”. Wear them – _enjoy_ them.</li><li value=\"78\">Always book an extra day off after a holiday.</li><li value=\"86\">Nap.</li><li value=\"91\">If in doubt, add cheese.</li></ol></blockquote><p>(#42 should really be \"don’t have any social media apps on your phone\".)</p><p>Some, I want to try doing more often...</p><blockquote><ol><li value=\"29\">Eat meat once a week, max. Ideally less.</li><li value=\"60\">Drop your shoulders.</li><li value=\"97\">Listen to the albums you loved as a teenager.</li></ol></blockquote><p>...but I'm calling bullshit on this one:</p><blockquote><ol><li value=\"17\">Don’t be weird about how to stack the dishwasher.</li></ol></blockquote><p>You can pry my OCD dishwasher tendencies from my cold, dead fingers.</p><p>And finally, as much as I love the idea, I'm not sure that this one is accurate (at least here in the US, maybe in the UK):</p><blockquote><ol><li value=\"5\">Consider going down to four days a week. It’s likely a disproportionate amount of your fifth day’s work is taxed anyway, so you’ll lose way less than a fifth of your take-home pay.</li></ol></blockquote><p><em>(Via <a href=\"https://kottke.org/22/01/100-ways-to-slightly-improve-your-life-without-really-trying\">Kottke</a>)</em></p>\n",
+				"date_published": "2022-01-04T16:30:45-04:00",
+				"url": "https://campegg.com/2022/01/04/ways-to-slightly.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/03/they-really-didnt.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>They really didn’t bury the lede on this one: <a href=\"https://phys.org/news/2021-05-mammals-anus-emergencies.html\">Mammals can breathe through anus in emergencies</a>.</p><p><strong>Update:</strong> I (or the 13-year-old in me) posted this having read just the headline, but after reading the article, I feel a little queasy about the experimental methodology. The idea of asphyxiating a living creature to see whether it can breathe through its butt doesn’t sit right with me. I can understand the scientific value of the research, but still… 🤢. I’m not going to delete this note, but am going to leave it here as a reminder to myself to be a bit more mindful about what I post in the future.</p>\n",
+				"date_published": "2022-01-03T20:58:06-04:00",
+				"url": "https://campegg.com/2022/01/03/they-really-didnt.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/03/a-new-wired.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>A <a href=\"https://www.wired.com/story/welcome-to-the-new-wired/\">new WIRED</a>? I will be watching to see how this plays out. I’ve read WIRED since I was at university and have been a subscriber pretty much since I moved to the US and used to love the magazine’s “techno-utopian” lean, but have come to take a different view of the world over the past few years. I like the idea of rejecting a binary view of good/bad or optimism/pessimism, but am skeptical about any media outlet’s ability to provide any kind of balance about anything anymore.</p>\n",
+				"date_published": "2022-01-03T11:34:01-04:00",
+				"url": "https://campegg.com/2022/01/03/a-new-wired.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2022/01/02/the-olympic-marathon.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>The <a href=\"https://www.smithsonianmag.com/history/the-1904-olympic-marathon-may-have-been-the-strangest-ever-14910747/\">1904 Olympic marathon</a> was wild; the runner that was originally thought to have won turned out to have ridden most of the course in a car, and the eventual winner was given strychnine (!!!), egg whites and brandy on the course by his trainers and (unsurprisingly!) had to be carried across the line:</p><blockquote><p>He began hallucinating, believing that the finish line was still 20 miles away. In the last mile he begged for something to eat. Then he begged to lie down. He was given more brandy but refused tea. He swallowed two more egg whites. He walked up the first of the last two hills, and then jogged down on the incline. Swinging into the stadium, he tried to run but was reduced to a graceless shuffle. His trainers carried him over the line, holding him aloft while his feet moved back and forth, and he was declared the winner.</p></blockquote><p>And then there was the dude who lost all of his stuff gambling, hitchhiked from New Orleans to St. Louis to get to the race, then ran \"attired in a white, long-sleeved shirt, long, dark pants, a beret and a pair of street shoes\".</p><p>Out of control.</p>\n",
+				"date_published": "2022-01-02T12:35:54-04:00",
+				"url": "https://campegg.com/2022/01/02/the-olympic-marathon.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/29/watched-the-first.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Watched the first episode of <a href=\"https://www.youtube.com/watch?v=rOJ1cw6mohw\"><em>The Book of Boba Fett</em></a> today; definitely has some strong <em>Mando</em> vibes going on (which is a good thing, IMO).</p><p>As an aside, in doing some post-episode Wookieepedia-ing, I found out that in <em>Empire Strikes Back</em>, <a href=\"https://starwars.fandom.com/wiki/John_Morton\">John Morton</a>, the guy who played Luke’s gunner, Dak, stood in as Boba Fett in a scene when the actor playing Fett, <a href=\"https://starwars.fandom.com/wiki/Jeremy_Bulloch\">Jeremy Bulloch</a>, (who also appeared in a few Bond films back in the day) wasn’t available.</p>\n",
+				"date_published": "2021-12-29T21:13:20-04:00",
+				"url": "https://campegg.com/2021/12/29/watched-the-first.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/25/merry-christmas-and.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.popsci.com/space/james-webb-space-telescope-launch/\">Merry Christmas and Godspeed, JWST!</a></p>\n",
+				"date_published": "2021-12-25T09:09:48-04:00",
+				"url": "https://campegg.com/2021/12/25/merry-christmas-and.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/24/oh-my-fucking.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks\">OH MY FUCKING GOD,  GET THE FUCKING VACCINE ALREADY, YOU FUCKING FUCKS</a></p>\n",
+				"date_published": "2021-12-24T09:02:25-04:00",
+				"url": "https://campegg.com/2021/12/24/oh-my-fucking.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/24/while-i-think.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>While I think the there is <em>potential</em> (that we are a very long way from realizing!) in the underlying tech—see <a href=\"/reading/articles/317\">previous comments about transfer of wealth/power</a>—I’m more-or-less aligned with Brian Eno’s take on the current state of the “crypto” space:</p><blockquote><p>Much of the energy behind crypto arises from the very strong need that some people feel to operate outside of a state, and therefore outside of any sort of democratic communal overview. The idea that Ayn Rand, that Nietzsche-for-Teenagers toxin, should have had her whacky ideas enshrined in a philosophy about money is what is terrifying to me.\n<cite>—<a href=\"https://the-crypto-syllabus.com/brian-eno-on-nfts-and-automatism/\">Brian Eno</a></cite></p></blockquote><p>His take on NFTs is also pretty 🔥</p>\n",
+				"date_published": "2021-12-24T08:58:17-04:00",
+				"url": "https://campegg.com/2021/12/24/while-i-think.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/23/from-this-mornings.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>From this morning's <a href=\"https://whyisthisinteresting.substack.com\">WITI</a>: Vulture's ranking of <a href=\"https://www.vulture.com/article/best-james-bond-movies-ranked-worst-best.html\">every James Bond film from worst to best</a>.</p><p>While I agree with #26 (<em>Die Another Day</em> was truly terrible film), I do take an exception with <em>Spectre</em> at #17—it definitely ranks in the top half for me—and <em>Tomorrow Never Dies</em> at #9—not as bad as <em>DAD</em>, but still not a good movie. Not sure that I'd rank <em>Casino Royale</em> at #1 either, but it's definitely a worthy pick.</p><p>I should sit down and work out how I would actually rank them all at some stage.</p><p><strong>Update:</strong><a href=\"https://campegg.com/posts/every-james-bond-movie-ranked\">I did it</a>.</p>\n",
+				"date_published": "2021-12-23T10:09:06-04:00",
+				"url": "https://campegg.com/2021/12/23/from-this-mornings.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/22/ever-thought-about.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🌩 Ever thought about <a href=\"https://www.quantamagazine.org/radio-telescope-reveals-how-lightning-begins-20211220\">where lightning comes from</a>? Yeah, me neither.</p>\n",
+				"date_published": "2021-12-22T11:17:41-04:00",
+				"url": "https://campegg.com/2021/12/22/ever-thought-about.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/21/til-that-theres.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>TIL that there’s such a thing as a <a href=\"https://www.wired.com/video/watch/absurd-creatures-this-bearcat-yeah-it-s-real-smells-like-popcorn\">bearcat</a>. And apparently, bearcats smell like popcorn.</p>\n",
+				"date_published": "2021-12-21T10:27:55-04:00",
+				"url": "https://campegg.com/2021/12/21/til-that-theres.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/20/i-turned-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I turned on the spatial audio thing on my iPhone/AirPods Pro a couple of days ago; it’s not life-changing, but it is kind of rad. The sound seems to be coming from just in front of and just a little above me… sometimes as I’m listening, I’ll move my head around to hear the effect—anyone looking in my direction at that moment must think I’m a total weirdo.</p>\n",
+				"date_published": "2021-12-20T18:18:26-04:00",
+				"url": "https://campegg.com/2021/12/20/i-turned-on.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/20/three-more-jwst.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Three more JWST links, all worth checking out:</p><ul><li><a href=\"https://www.space.com/james-webb-space-telescope-mission-explained\">How the James Webb Space Telescope works in pictures</a></li><li><a href=\"https://www.space.com/james-webb-space-telescope-hubble-images-comparison\">James Webb Space Telescope vs. Hubble: How will their images compare?</a></li><li><a href=\"https://www.space.com/james-webb-space-telescope-dark-matter-science\">What will the James Webb Space Telescope reveal to us about dark matter?</a></li></ul>\n",
+				"date_published": "2021-12-20T16:32:53-04:00",
+				"url": "https://campegg.com/2021/12/20/three-more-jwst.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/17/what-an-amazing.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://reasonstobecheerful.world/water-from-air-technology-skysource/\">What an amazing idea</a>! Like, insanely clever… it’s a source of clean water even in relative arid climares, is carbon-negative, and the “waste” it produces can be used help mitigate wildfires.</p>\n",
+				"date_published": "2021-12-17T07:58:59-04:00",
+				"url": "https://campegg.com/2021/12/17/what-an-amazing.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/14/iffor-whatever-reasonyou.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>If—for whatever reason—you feel like ratcheting up your anxiety levels, check out the <a href=\"https://busysimulator.com\">Busy Simulator</a> and crank up the frequency on each of the apps. I can almost guarantee that your blood pressure will spike in mere moments.</p>\n",
+				"date_published": "2021-12-14T19:51:09-04:00",
+				"url": "https://campegg.com/2021/12/14/iffor-whatever-reasonyou.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/13/i-read-through.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I read through <a href=\"https://www.nature.com/articles/d41586-021-03620-1\">this article on the James Webb Space Telescope</a> this morning and 🤯🤯🤯. I have a coffee table book of Hubble images and flicking through it blows my mind every time... really can't wrap my head around the capabilities of the JWST and what it's going to enable astronomers to see.</p>\n",
+				"date_published": "2021-12-13T16:25:18-04:00",
+				"url": "https://campegg.com/2021/12/13/i-read-through.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/13/a-little-late.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>A little late on this  one, but I just found out that <a href=\"https://www.brooklyngrangefarm.com/javits-press-release\">Brooklyn Grange have started operating a garden/farm on the roof of the Javits Center</a>. I got to visit <a href=\"/photos/20141125122436\">the farm in the Brooklyn Navy Yard</a> (+ <a href=\"/photos/20141125123249\">part two</a>) back in 2014... such a great use of rooftop space.</p>\n",
+				"date_published": "2021-12-13T13:07:18-04:00",
+				"url": "https://campegg.com/2021/12/13/a-little-late.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/07/kinda-wild-thought.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Kinda wild <a href=\"https://kk.org/thetechnium/the-irresistible-future/\">thought experiment posited by Kevin Kelly</a>. I have no idea what sort of argument someone would have to make to get me to take a one-way trip 500 years into the future. I'd probably jump on the two-year version just out of curiosity, no real convincing needed.</p>\n",
+				"date_published": "2021-12-07T14:42:32-04:00",
+				"url": "https://campegg.com/2021/12/07/kinda-wild-thought.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/07/til-that-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>TIL that the flat, color-blocked style of illustration that is almost ubiquitous on startup websites is called “<a href=\"https://en.wikipedia.org/wiki/Corporate_Memphis\">Corporate Memphis</a>”.</p>\n",
+				"date_published": "2021-12-07T07:59:38-04:00",
+				"url": "https://campegg.com/2021/12/07/til-that-the.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/12/02/this-is-pretty.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>This is pretty cool: a web demo of Oskar Stålberg‘s <a href=\"http://oskarstalberg.com/Townscaper/\">Townscaper</a>. I bought it for my Switch back in August—there’s no story or objective, you just assemble the blocks to build your little island town. Kind of relaxing, really.</p>\n",
+				"date_published": "2021-12-02T08:00:11-04:00",
+				"url": "https://campegg.com/2021/12/02/this-is-pretty.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/11/30/this-is-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>This is the best refutation of the (fallacious) “I have nothing to hide” argument about privacy I’ve read yet:</p><blockquote><p>Don’t confuse privacy with secrecy. I know what you do in the bathroom, but you still close the door. That’s because you want privacy, not secrecy.</p></blockquote><p>That’s definitely the highlight, but <a href=\"https://medium.com/@FabioAEsteves/i-have-nothing-to-hide-why-should-i-care-about-my-privacy-f488281b8f1d\">the whole piece</a> is worth a read and should only take a few minutes of your time.</p>\n",
+				"date_published": "2021-11-30T08:01:13-04:00",
+				"url": "https://campegg.com/2021/11/30/this-is-the.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/11/25/kottke-posted-about.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://kottke.org/21/11/the-ten-rules-of-golden-age-detective-fiction\">Kottke posted about this</a> yesterday, but <a href=\"https://whyisthisinteresting.substack.com/p/the-murder-mystery-edition\">Tuesday’s WITI</a> covered a topic near to my heart: the murder mystery novel. You’ll see Agatha Christie pop up from time to time in my <a href=\"/reading/books\">reading list</a>; detective stories are high on my list of go-to vacation reads.</p><p>Of additional interest are Knox’s 10 Rules of Detective Fiction, especially at the moment as my wife and I are watching <a href=\"https://www.rottentomatoes.com/tv/only_murders_in_the_building\"><em>Only Murders in the Building</em></a>—it adheres to a pretty classic murder story structure where you can definitely see some of these rules in action.</p>\n",
+				"date_published": "2021-11-25T16:59:48-04:00",
+				"url": "https://campegg.com/2021/11/25/kottke-posted-about.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/11/25/i-am-starting.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I am starting this Thanksgiving with a bit of a post-Covid vaccine booster hangover, and even though I feel a little under the weather, I could not be more thankful.</p>\n",
+				"date_published": "2021-11-25T08:47:43-04:00",
+				"url": "https://campegg.com/2021/11/25/i-am-starting.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/11/21/it-occurred-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>It occurred to me earlier that I've never really sat down and thought about why I spend time messing about with this site. So I did, and <a href=\"/posts/why-i-built-this-site\">typed them up</a>.</p>\n",
+				"date_published": "2021-11-21T14:18:13-04:00",
+				"url": "https://campegg.com/2021/11/21/it-occurred-to.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/11/20/your-work-will.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<blockquote><p>&ldquo;Your work will be endless, but your time is finite. You cannot limit the work so you must limit your time. Hours are the only thing you can manage.&rdquo;\n<cite>&ndash;<a href=\"https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/\">Kevin Kelly</a></cite></p></blockquote>\n",
+				"date_published": "2021-11-20T13:57:55-04:00",
+				"url": "https://campegg.com/2021/11/20/your-work-will.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/11/18/085938.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Filed under definitely-not-light-reading-but-sounds-fascinating: <em><a href=\"https://neilkakkar.com/Algorithms-to-live-by.html\">Algorithms to Live By</a></em> by Brian Christian and Tom Griffiths. I started reading about sorting algorithms a while back, after seeing <a href=\"https://youtu.be/kPRA0W1kECg\">a visualization of how different types work</a> (volume down on this one!), but quickly got out of my depth—hardcore computer science is not my strong suit. This looks like it might be an easier introduction to the broader subject.</p>\n",
+				"date_published": "2021-11-18T08:59:38-04:00",
+				"url": "https://campegg.com/2021/11/18/085938.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/11/15/this-is-why.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.theverge.com/2021/11/10/22773073/vizio-acr-advertising-inscape-data-privacy-q3-2021\">This</a> is why your TV was so cheap.</p>\n",
+				"date_published": "2021-11-15T15:50:40-04:00",
+				"url": "https://campegg.com/2021/11/15/this-is-why.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/11/11/ive-had-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I’ve had a long-running admiration of/obsession with <a href=\"https://notes.andymatuschak.org/\">Andy Matuschak’s working notes</a>. This is partly based on the systems he uses (both the technical system he has built for himself and the <a href=\"https://en.wikipedia.org/wiki/Zettelkasten\">note-taking methodology</a> he uses), and partly because I think I’m generally impressed by people with deep expertise in a subject area—it doesn’t matter what; in Andy’s case, it happens to be the bases of knowledge work, but it could equally be someone who is a master woodworker, or a horologist, or a cobbler, or a PhD.</p>\n",
+				"date_published": "2021-11-11T10:05:01-04:00",
+				"url": "https://campegg.com/2021/11/11/ive-had-a.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/11/09/is-it-wrong.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Is it wrong for a 40-something year old to want a LEGO set for Christmas? Because I would totally ask Santa for <a href=\"https://www.lego.com/en-us/product/at-at-75313\">this 6,785-piece LEGO AT-AT</a>, except I know Santa, and she would look at me like I'm an idiot if I asked her to get me an $800 LEGO set. But a minifigure-scale model like this is the stuff my dreams were made of as a kid. And <a href=\"https://www.brothers-brick.com/2021/11/09/lego-star-wars-reveals-6800-piece-ultimate-collector-series-75313-at-at-thats-actually-minifigure-scale-news/\">it looks so awesome</a> (and so do the <a href=\"https://www.brothers-brick.com/2021/11/09/lego-star-wars-75313-ultimate-collector-series-at-at-the-empire-truly-strikes-back-review/\">build photos</a> in the review)!</p>\n",
+				"date_published": "2021-11-09T13:25:49-04:00",
+				"url": "https://campegg.com/2021/11/09/is-it-wrong.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/11/05/why-is-it.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Why is it so hard to find a (relatively) simple method to sync a directory on a Mac with a directory on a Linux server over <code>ssh</code>? There are a bunch of complicated ways to do it, but I really can't be bothered messing about with them right now.</p>\n",
+				"date_published": "2021-11-05T16:24:11-04:00",
+				"url": "https://campegg.com/2021/11/05/why-is-it.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2021/11/05/i-came-across.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I came across the <a href=\"https://indieweb.org\">IndieWeb</a> community recently and have spent a bit of time poking around the site; I'm already on board with ideas like \"<a href=\"https://indieweb.org/own_your_data\">own your data</a>\", but they also outline a number of other concepts that I think I'd like to explore further and maybe incorporate here, like <a href=\"https://indieweb.org/POSSE\">POSSE</a>.</p>\n",
+				"date_published": "2021-11-05T09:40:48-04:00",
+				"url": "https://campegg.com/2021/11/05/i-came-across.html"
+			}
+	]
+}
