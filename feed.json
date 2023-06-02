@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://campegg.micro.blog/2023/06/01/well-that-was.html",
+				
+				"content_html": "<p>Well. That was pretty much perfect. #TedLasso</p>\n",
+				"content_text": "Well. That was pretty much perfect. #TedLasso\n",
+				"date_published": "2023-06-01T21:11:32-04:00",
+				"url": "https://campegg.com/2023/06/01/well-that-was.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/01/of-course-we.html",
+				
+				"content_html": "<p><a href=\"https://www.currentaffairs.org/2023/05/of-course-we-should-all-be-working-less/\">Of course we should All be working less</a>&hellip; makes total sense, but good luck with that. We are all (and Americans in particular) too culturally indoctrinated to believe that work is an absolute moral good for this to happen. And—you know—<em>capitalism</em>. 🙄</p>\n",
+				"content_text": "[Of course we should All be working less](https://www.currentaffairs.org/2023/05/of-course-we-should-all-be-working-less/)... makes total sense, but good luck with that. We are all (and Americans in particular) too culturally indoctrinated to believe that work is an absolute moral good for this to happen. And—you know—_capitalism_. 🙄\n",
+				"date_published": "2023-06-01T11:36:12-04:00",
+				"url": "https://campegg.com/2023/06/01/of-course-we.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/01/i-dont-entirely.html",
+				
+				"content_html": "<p>I don&rsquo;t <em>entirely</em> buy into the premises of the argument in <a href=\"https://www.hamiltonnolan.com/p/automate-the-ceos\"><em>Automate the CEOs</em></a> (I think it&rsquo;s a bit of a stretch to classify the entirety of an executive&rsquo;s job as &ldquo;rote&rdquo;), but I do agree with one of the conclusions—&quot;&hellip;CEOs will be spared from automation not because they should be, but because they are making the decisions about who is spared from automation.&quot;</p>\n",
+				"content_text": "I don't _entirely_ buy into the premises of the argument in [_Automate the CEOs_](https://www.hamiltonnolan.com/p/automate-the-ceos) (I think it's a bit of a stretch to classify the entirety of an executive's job as \"rote\"), but I do agree with one of the conclusions—\"...CEOs will be spared from automation not because they should be, but because they are making the decisions about who is spared from automation.\"\n",
+				"date_published": "2023-06-01T10:35:08-04:00",
+				"url": "https://campegg.com/2023/06/01/i-dont-entirely.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/05/29/of-my-computerrelated.html",
+				
+				"content_html": "<p>99% of my (computer-related, at least) problems could be solved if I actually R’ed TFM instead of skimming. Dumbass.</p>\n",
+				"content_text": "99% of my (computer-related, at least) problems could be solved if I actually R’ed TFM instead of skimming. Dumbass.\n",
+				"date_published": "2023-05-29T22:21:03-04:00",
+				"url": "https://campegg.com/2023/05/29/of-my-computerrelated.html"
+			},
+			{
 				"id": "http://campegg.micro.blog/2023/05/26/im-trying-arc.html",
 				
 				"content_html": "<p>I&rsquo;m trying <a href=\"https://arc.net/\">Arc</a> again. I really want to love it—&lsquo;Spaces&rsquo; in particular is killer and the UI is pretty decent—but it is a big change. I&rsquo;m committing to giving it a week as my default and we&rsquo;ll see how it goes.</p>\n",
@@ -18,7 +50,7 @@
 				"id": "http://campegg.micro.blog/2023/05/25/ive-seen-this.html",
 				
 				"content_html": "<p>I’ve seen this skyline so many times over the last seven years, but sometimes I still can’t believe I live here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’ve seen this skyline so many times over the last seven years, but sometimes I still can’t believe I live here.\n\n<img src=\"uploads/2023/3771b27497.jpg\" width=\"600\" height=\"300\" alt=\"\">\n",
+				"content_text": "I’ve seen this skyline so many times over the last seven years, but sometimes I still can’t believe I live here.\n\n<img src=\"https://cdn.uploads.micro.blog/109471/2023/3771b27497.jpg\" width=\"600\" height=\"300\" alt=\"\">\n",
 				"date_published": "2023-05-25T21:17:25-04:00",
 				"url": "https://campegg.com/2023/05/25/ive-seen-this.html"
 			},
