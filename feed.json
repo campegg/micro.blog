@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://campegg.micro.blog/2023/06/07/a-weekish-into.html",
+				
+				"content_html": "<p>A week(-ish) into <a href=\"https://campegg.com/2023/05/26/im-trying-arc.html\">the Arc experiment</a>, and I think I&rsquo;m going to stay with it. It took a few days to get everything the way I wanted it, but now that I&rsquo;m all (mostly?) sorted out, I really like it.</p>\n<p>The iOS &ldquo;companion&rdquo; app is OK, I guess, but (the understandable) lack of a proper version is a bummer.</p>\n",
+				"content_text": "A week(-ish) into [the Arc experiment](https://campegg.com/2023/05/26/im-trying-arc.html), and I think I'm going to stay with it. It took a few days to get everything the way I wanted it, but now that I'm all (mostly?) sorted out, I really like it.\r\n\r\nThe iOS \"companion\" app is OK, I guess, but (the understandable) lack of a proper version is a bummer.\n",
+				"date_published": "2023-06-07T13:12:41-04:00",
+				"url": "https://campegg.com/2023/06/07/a-weekish-into.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/05/tears-of-the.html",
+				
+				"content_html": "<p>Tears of the Kingdom sold <a href=\"https://www.theverge.com/2023/5/17/23726845/tears-of-the-kingdom-zelda-nintendo-switch-sales-best-seller\">10 million copies</a> in its first three days on sale… staggering.</p>\n<blockquote>\n<p>This is a game selling on six-year-old hardware locked at a quaint 30fps that largely takes place in a setting players have seen and explored before.</p>\n</blockquote>\n<p>For non-gamer gamers, things like frame rates just don’t matter; a fun game with a great story is always going to do well, and Totk is <em>incredibly</em> fun with an <em>outstanding</em> story (even if we have played variations on this theme many times before).</p>\n",
+				"content_text": "Tears of the Kingdom sold [10 million copies](https://www.theverge.com/2023/5/17/23726845/tears-of-the-kingdom-zelda-nintendo-switch-sales-best-seller) in its first three days on sale… staggering.\n\n> This is a game selling on six-year-old hardware locked at a quaint 30fps that largely takes place in a setting players have seen and explored before.\n\nFor non-gamer gamers, things like frame rates just don’t matter; a fun game with a great story is always going to do well, and Totk is _incredibly_ fun with an _outstanding_ story (even if we have played variations on this theme many times before).\n",
+				"date_published": "2023-06-05T21:41:22-04:00",
+				"url": "https://campegg.com/2023/06/05/tears-of-the.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/05/that-article-i.html",
+				
+				"content_html": "<p>That <a href=\"https://campegg.com/2023/06/05/thats-the-true.html\">article I posted earlier</a> got me thinking about something else: when it comes to note-taking, I love the idea of &ldquo;<a href=\"https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu\">working with the garage door up</a>&rdquo; via a digital garden / second brain / commonplace book / whatever, but it also seems largely performative. I&rsquo;m yet to see a anyone put together anything that isn&rsquo;t a glorified blog, or see anyone engage deeply with ideas or other people—and more importantly, ideas <em>from</em> other people—this way (but keen to being proved wrong here!).</p>\n<p>For this reason, I&rsquo;ve largely given up on the idea of a public-facing notebook. And I&rsquo;ve also found that taking the idea of any kind of external appraisal off the table has given me more mental freedom to just get things documented the way that I see them without the fear of some rando passing judgement.</p>\n",
+				"content_text": "That [article I posted earlier](https://campegg.com/2023/06/05/thats-the-true.html) got me thinking about something else: when it comes to note-taking, I love the idea of \"[working with the garage door up](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)\" via a digital garden / second brain / commonplace book / whatever, but it also seems largely performative. I'm yet to see a anyone put together anything that isn't a glorified blog, or see anyone engage deeply with ideas or other people—and more importantly, ideas _from_ other people—this way (but keen to being proved wrong here!).\r\n\r\nFor this reason, I've largely given up on the idea of a public-facing notebook. And I've also found that taking the idea of any kind of external appraisal off the table has given me more mental freedom to just get things documented the way that I see them without the fear of some rando passing judgement.\n",
+				"date_published": "2023-06-05T12:11:01-04:00",
+				"url": "https://campegg.com/2023/06/05/that-article-i.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/05/thats-the-true.html",
+				
+				"content_html": "<blockquote>\n<p>That&rsquo;s the true value of notebooks, notes apps, bookmarking tools, and everything else built to help us remember. They’re insurance for ideas. They let us forget.</p>\n</blockquote>\n<p>I get the &ldquo;<a href=\"https://www.reproof.app/blog/notes-apps-help-us-forget\">writing things down to forget them</a>&rdquo; argument, but I&rsquo;m not sure I agree—like many things, the nuances make a big difference. The value of jotting down notes comes from their ability to spark future ideas or thinking; forgetting details, but remembering high-order concepts I&rsquo;m totally fine with; just completely losing all recall of something after taking the time to note it seems pretty pointless.</p>\n",
+				"content_text": "> That's the true value of notebooks, notes apps, bookmarking tools, and everything else built to help us remember. They’re insurance for ideas. They let us forget.\r\n\r\nI get the \"[writing things down to forget them](https://www.reproof.app/blog/notes-apps-help-us-forget)\" argument, but I'm not sure I agree—like many things, the nuances make a big difference. The value of jotting down notes comes from their ability to spark future ideas or thinking; forgetting details, but remembering high-order concepts I'm totally fine with; just completely losing all recall of something after taking the time to note it seems pretty pointless.\n",
+				"date_published": "2023-06-05T11:18:16-04:00",
+				"url": "https://campegg.com/2023/06/05/thats-the-true.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/04/214945.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/6f5d58b4b2.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-04T21:49:45-04:00",
+				"url": "https://campegg.com/2023/06/04/214945.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/02/this-blendedwing-aircraft.html",
+				
+				"content_html": "<p>This <a href=\"https://www.fastcompany.com/90902351/how-jetzero-aims-to-be-the-spacex-of-aviation\">blended-wing aircraft concept</a> is super cool… I would switch to buying tickets from any airline flying them in a heartbeat.</p>\n",
+				"content_text": "This [blended-wing aircraft concept](https://www.fastcompany.com/90902351/how-jetzero-aims-to-be-the-spacex-of-aviation) is super cool… I would switch to buying tickets from any airline flying them in a heartbeat.\n",
+				"date_published": "2023-06-02T07:07:20-04:00",
+				"url": "https://campegg.com/2023/06/02/this-blendedwing-aircraft.html"
+			},
+			{
 				"id": "http://campegg.micro.blog/2023/06/01/well-that-was.html",
 				
 				"content_html": "<p>Well. That was pretty much perfect. #TedLasso</p>\n",
@@ -17,8 +65,8 @@
 			{
 				"id": "http://campegg.micro.blog/2023/06/01/of-course-we.html",
 				
-				"content_html": "<p><a href=\"https://www.currentaffairs.org/2023/05/of-course-we-should-all-be-working-less/\">Of course we should All be working less</a>&hellip; makes total sense, but good luck with that. We are all (and Americans in particular) too culturally indoctrinated to believe that work is an absolute moral good for this to happen. And—you know—<em>capitalism</em>. 🙄</p>\n",
-				"content_text": "[Of course we should All be working less](https://www.currentaffairs.org/2023/05/of-course-we-should-all-be-working-less/)... makes total sense, but good luck with that. We are all (and Americans in particular) too culturally indoctrinated to believe that work is an absolute moral good for this to happen. And—you know—_capitalism_. 🙄\n",
+				"content_html": "<p><a href=\"https://www.currentaffairs.org/2023/05/of-course-we-should-all-be-working-less/\">Of course we should all be working less</a>&hellip; makes total sense, but good luck with that. We are all (and Americans in particular) too culturally indoctrinated to believe that work is an absolute moral good for this to happen. And—you know—<em>capitalism</em>. 🙄</p>\n",
+				"content_text": "[Of course we should all be working less](https://www.currentaffairs.org/2023/05/of-course-we-should-all-be-working-less/)... makes total sense, but good luck with that. We are all (and Americans in particular) too culturally indoctrinated to believe that work is an absolute moral good for this to happen. And—you know—_capitalism_. 🙄\n",
 				"date_published": "2023-06-01T11:36:12-04:00",
 				"url": "https://campegg.com/2023/06/01/of-course-we.html"
 			},
