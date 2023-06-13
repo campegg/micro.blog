@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://campegg.micro.blog/2023/06/12/tracy-nails-why.html",
+				
+				"content_html": "<p>Tracy nails <a href=\"https://tracydurnell.com/2023/06/12/llms-fail-as-a-tool-because-results-are-not-replicable/\">why LLMs fail as a tool</a>:</p>\n<blockquote>\n<p>LLMs are essentially a “random” button you hit until you like the results well enough. In the balance, the LLM controls the output more than the person using it. Sorry, “prompt engineers,” that’s hardly craftsmanship. LLMs are designed to produce content, but not art or meaning. Those require an intentionality absent from AI.</p>\n</blockquote>\n<p>If you can’t replicate the same results from the same input, you’re basically drawing stuff out of a hat. A mathematically sophisticated hat, but still.</p>\n",
+				"content_text": "Tracy nails [why LLMs fail as a tool](https://tracydurnell.com/2023/06/12/llms-fail-as-a-tool-because-results-are-not-replicable/):\n\n> LLMs are essentially a “random” button you hit until you like the results well enough. In the balance, the LLM controls the output more than the person using it. Sorry, “prompt engineers,” that’s hardly craftsmanship. LLMs are designed to produce content, but not art or meaning. Those require an intentionality absent from AI.\n\nIf you can’t replicate the same results from the same input, you’re basically drawing stuff out of a hat. A mathematically sophisticated hat, but still.\n",
+				"date_published": "2023-06-12T21:22:18-04:00",
+				"url": "https://campegg.com/2023/06/12/tracy-nails-why.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/07/i-love-this.html",
+				
+				"content_html": "<p>I love <a href=\"https://kottke.org/23/06/real-life-infrastructure-that-looks-like-sci-fi\">this kind of stuff</a>&hellip; when we humans aren&rsquo;t busy being horrible to each other and burning the planet down, we can make some truly inspired (and inspiring) things.</p>\n",
+				"content_text": "I love [this kind of stuff](https://kottke.org/23/06/real-life-infrastructure-that-looks-like-sci-fi)... when we humans aren't busy being horrible to each other and burning the planet down, we can make some truly inspired (and inspiring) things.\n",
+				"date_published": "2023-06-07T17:14:28-04:00",
+				"url": "https://campegg.com/2023/06/07/i-love-this.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/07/currently-reading-future.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781647823504\">Future Ready</a> by Stephanie L. Woerner&hellip; I attended a webinar presented by Dr Woerner yesterday and loved the &ldquo;four pathways&rdquo; approach, so went out and immediately bought the book. 📚</p>\n",
+				"content_text": "Currently reading: [Future Ready](https://micro.blog/books/9781647823504) by Stephanie L. Woerner... I attended a webinar presented by Dr Woerner yesterday and loved the \"four pathways\" approach, so went out and immediately bought the book. 📚\n",
+				"date_published": "2023-06-07T15:58:14-04:00",
+				"url": "https://campegg.com/2023/06/07/currently-reading-future.html"
+			},
+			{
 				"id": "http://campegg.micro.blog/2023/06/07/a-weekish-into.html",
 				
 				"content_html": "<p>A week(-ish) into <a href=\"https://campegg.com/2023/05/26/im-trying-arc.html\">the Arc experiment</a>, and I think I&rsquo;m going to stay with it. It took a few days to get everything the way I wanted it, but now that I&rsquo;m all (mostly?) sorted out, I really like it.</p>\n<p>The iOS &ldquo;companion&rdquo; app is OK, I guess, but (the understandable) lack of a proper version is a bummer.</p>\n",
