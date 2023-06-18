@@ -7,11 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://campegg.micro.blog/2023/06/18/now-this-is.html",
+				
+				"content_html": "<p>Now this is a civilized way to begin one’s day.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Now this is a civilized way to begin one’s day.\n\n<img src=\"uploads/2023/0870e7c315.jpg\" width=\"450\" height=\"600\" alt=\"An espresso in the foreground, looking over a pool and on to Lake Garda\">\n",
+				"date_published": "2023-06-18T09:37:08+02:00",
+				"url": "https://campegg.com/2023/06/18/now-this-is.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/17/195026.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/img-1878.jpeg\" width=\"450\" height=\"600\" alt=\"Four ducks swimming in clear water on Lake Garda\">\n",
+				"date_published": "2023-06-17T19:50:26+02:00",
+				"url": "https://campegg.com/2023/06/17/195026.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/17/lago-di-garda.html",
+				
+				"content_html": "<p>Lago di Garda, Lombardy</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lago di Garda, Lombardy\n\n<img src=\"uploads/2023/img-1867.jpeg\" width=\"450\" height=\"600\" alt=\"Looking down the length of a small dock on Lake Garda, Italy, with the far shore in the distance\">\n",
+				"date_published": "2023-06-17T19:48:41+02:00",
+				"url": "https://campegg.com/2023/06/17/lago-di-garda.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/15/adding-this-piece.html",
+				
+				"content_html": "<p>Adding <a href=\"https://brooksreview.net/2023/06/weve-lost-our-damn-outrage-because-the-community-knows-where-their-money-comes-from-and-are-scared-to-lose-that-income-but-my-fucking-money-comes-from-readers-and-im-pissed/\">this piece at <em>The Brooks Review</em></a> to the (long) list of things I wish I could have written:</p>\n<blockquote>\n<p>There’s no excuse to add content to Twitter, Facebook, or Reddit right now. There are only shitty justifications like “I need to promote my site so advertisers pay me more to do my podcast” or “Oh, but I’ll miss it; it has valuable information I use all the time.” Both are correct statements; no debating that. But what is the price of letting egomaniacs ruin unique little businesses, destroy trust, mistreat workers, mistreat society, and break apart core democratic values?</p>\n</blockquote>\n",
+				"content_text": "Adding [this piece at *The Brooks Review*](https://brooksreview.net/2023/06/weve-lost-our-damn-outrage-because-the-community-knows-where-their-money-comes-from-and-are-scared-to-lose-that-income-but-my-fucking-money-comes-from-readers-and-im-pissed/) to the (long) list of things I wish I could have written:\r\n\r\n> There’s no excuse to add content to Twitter, Facebook, or Reddit right now. There are only shitty justifications like “I need to promote my site so advertisers pay me more to do my podcast” or “Oh, but I’ll miss it; it has valuable information I use all the time.” Both are correct statements; no debating that. But what is the price of letting egomaniacs ruin unique little businesses, destroy trust, mistreat workers, mistreat society, and break apart core democratic values?\r\n\r\n",
+				"date_published": "2023-06-15T17:13:23+02:00",
+				"url": "https://campegg.com/2023/06/15/adding-this-piece.html"
+			},
+			{
+				"id": "http://campegg.micro.blog/2023/06/13/a-great-read.html",
+				
+				"content_html": "<p>A great read about <a href=\"https://www.tor.com/2023/06/12/pratchett-and-philosophy-the-tao-of-sir-terry/\"><em>The Tao of Sir Terry</em></a>, via <a href=\"https://xoxo.zone/@KevinMarks\">@KevinMarks</a> via Slack:</p>\n<blockquote>\n<p>The real reason Pratchett’s work resonates so deeply with so many people around the world—and will continue to do so for decades to come—is that every one of his stories tugs at a deep, philosophical thread that sneaks up under the cover of action and punny dialogue to mug you faster than a denizen of the Shades.</p>\n</blockquote>\n<p>There really is a deep philosophical look at the world that sits (not all that far) below the surface of Sir Terry&rsquo;s <em>Discworld</em> books; if you haven&rsquo;t read any of them, you should.</p>\n",
+				"content_text": "A great read about [*The Tao of Sir Terry*](https://www.tor.com/2023/06/12/pratchett-and-philosophy-the-tao-of-sir-terry/), via [@KevinMarks](https://xoxo.zone/@KevinMarks) via Slack:\r\n\r\n> The real reason Pratchett’s work resonates so deeply with so many people around the world—and will continue to do so for decades to come—is that every one of his stories tugs at a deep, philosophical thread that sneaks up under the cover of action and punny dialogue to mug you faster than a denizen of the Shades.\r\n\r\nThere really is a deep philosophical look at the world that sits (not all that far) below the surface of Sir Terry's _Discworld_ books; if you haven't read any of them, you should.\n",
+				"date_published": "2023-06-13T16:00:40+02:00",
+				"url": "https://campegg.com/2023/06/13/a-great-read.html"
+			},
+			{
 				"id": "http://campegg.micro.blog/2023/06/12/tracy-nails-why.html",
 				
 				"content_html": "<p>Tracy nails <a href=\"https://tracydurnell.com/2023/06/12/llms-fail-as-a-tool-because-results-are-not-replicable/\">why LLMs fail as a tool</a>:</p>\n<blockquote>\n<p>LLMs are essentially a “random” button you hit until you like the results well enough. In the balance, the LLM controls the output more than the person using it. Sorry, “prompt engineers,” that’s hardly craftsmanship. LLMs are designed to produce content, but not art or meaning. Those require an intentionality absent from AI.</p>\n</blockquote>\n<p>If you can’t replicate the same results from the same input, you’re basically drawing stuff out of a hat. A mathematically sophisticated hat, but still.</p>\n",
 				"content_text": "Tracy nails [why LLMs fail as a tool](https://tracydurnell.com/2023/06/12/llms-fail-as-a-tool-because-results-are-not-replicable/):\n\n> LLMs are essentially a “random” button you hit until you like the results well enough. In the balance, the LLM controls the output more than the person using it. Sorry, “prompt engineers,” that’s hardly craftsmanship. LLMs are designed to produce content, but not art or meaning. Those require an intentionality absent from AI.\n\nIf you can’t replicate the same results from the same input, you’re basically drawing stuff out of a hat. A mathematically sophisticated hat, but still.\n",
-				"date_published": "2023-06-12T21:22:18-04:00",
+				"date_published": "2023-06-13T03:22:18+02:00",
 				"url": "https://campegg.com/2023/06/12/tracy-nails-why.html"
 			},
 			{
@@ -19,7 +59,7 @@
 				
 				"content_html": "<p>I love <a href=\"https://kottke.org/23/06/real-life-infrastructure-that-looks-like-sci-fi\">this kind of stuff</a>&hellip; when we humans aren&rsquo;t busy being horrible to each other and burning the planet down, we can make some truly inspired (and inspiring) things.</p>\n",
 				"content_text": "I love [this kind of stuff](https://kottke.org/23/06/real-life-infrastructure-that-looks-like-sci-fi)... when we humans aren't busy being horrible to each other and burning the planet down, we can make some truly inspired (and inspiring) things.\n",
-				"date_published": "2023-06-07T17:14:28-04:00",
+				"date_published": "2023-06-07T23:14:28+02:00",
 				"url": "https://campegg.com/2023/06/07/i-love-this.html"
 			},
 			{
